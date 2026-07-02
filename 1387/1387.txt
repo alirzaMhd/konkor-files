@@ -1,0 +1,219 @@
+
+--- OCR_page_2 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+عصر جمعه
+صفحه ۱
+۸۶/۱۲/۳
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان انگلیسی (عمومی)
+PART A: Vocabulary
+Directions: Choose the number of the answer (1), (2), (3), or (4) that best completes the sentence. Then mark your choice on your answer sheet.
+1- Copies of the documents are available for --- 1) inspection
+2- It is perhaps
+1) eventual
+at local libraries. 3) attribution
+4) constitution
+2) simulation that advanced technology will increase the pressure on workers. 2) inherent 3) potential 4) inevitable
+3- The finance director has announced that
+plans.
+1) variables
+2) implications
+4- Certain forms of mental illness can be
+1) founded
+2) triggered
+- on spending have forced the company to rethink its
+3) constraints
+by food allergies. 3) assigned
+5- Under mandatory sentencing, the court has no authority to
+1) release
+6- In some areas, floodwaters caused ----
+1) empirical
+2) modify
+2) persistent
+2) declined
+7- Offered the position of chairman, Smith
+4) procedures
+4)
+the prison term. 4) interact
+3) diminish damage and a great loss of life.
+3) successive
+4) widespread
+WW Guter.ir/
+1) priority
+2) application
+PART B: Grammar
+1) resolved
+8- She holds the 1) coherence
+preferring to keep his current job.
+3) conceived
+4) encountered
+of having been the first woman editor of the Harvard Law Review.
+2) distinction
+9- Studies have shown that insect populations 1) convert
+2) maintain
+3) inclination
+4) complement
+wildly from year to year.
+3) fluctuate
+4) distribute
+3) incentive
+4) adjustment
+10- With so little money available, repairs must remain a low
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each blank. Then mark your choice on your answer sheet.
+If you ask most people to list what makes them (11) -------- someone on first meeting, they (12). personality, intelligence, and sense of humor. But they're probably deceiving (13) characteristic that impresses people the most (14)
+-- a classmate, is appearance.
+The
+meeting anyone, from a job applicant (15) -
+11-
+1) like
+2) to like
+3) being liked
+4) liking
+12- 1) will say
+2) are to say
+3) are saying
+4) will be saying
+13- 1) it
+2) them
+3) themselves
+14- 1) is
+2) for
+3) when
+15- 1) as
+2) to
+3) or
+4) one another
+4) during
+4) for
+
+
+
+--- OCR_page_3 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۲
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان تخصصی (کد ۱۲۷۷)
+Part C. Reading Comprehension
+Directions: Read the following passages and choose the best choice (1), (2), (3), or (4). Then mark in on your answer sheet.
+PASSAGE I:
+There is a fundamental relationship between the computer hardware and the many aspects of programming and software components in computer systems. In order to write good software, it is very important to understand the computer system as a whole. Understanding hardware can help you explain the mysterious errors that sometimes creep into your programs, such as the infamous segmentation fault or bus error. The level of knowledge about computer organization and computer architecture that a high-level programmer must have depends on the task the high-level programmer is attempting to complete.
+16. The passage is mainly about
+1) how to prevent mysterious errors creep into our programs.
+kurcomputer.in
+2) how to advance the level of knowledge in computer organization.
+3) the fundamental difference between hardware and software programmers. 4) the fact that programmers need to have good knowledge of hardware.
+PASSAGE II:
+There is a fundamental relationship between the computer hardware and the many aspects of programming and software components in computer systems. In order to write good software, it is very important to understand the computer system as a whole. Understanding hardware can help you explain the mysterious errors that sometimes creep into your programs, such as the infamous segmentation fault or bus error. The level of knowledge about computer organization and computer architecture that a high-level programmer must have depends on the task the high-level programmer is attempting to complete.
+ww
+17. What isn't meant by this passage?
+1) In computer system, the relation between hardware and software components is a fundamental
+one.
+2) Having a general perspective of the computer system is of utmost importance to good programming.
+3) Should a programmer want to write a good software, he or she must study the hardware architecture to some appropriate level.
+4) A high-level programmer, when trying to find a software solution for the task in hand, should have proper knowledge about the organization of the working computer.
+PASSAGE III:
+Ever since computers were invented, it has been natural to wonder whether they might be able to learn. Imagine computers learning from medical records to discover emerging trends in the spread and treatment of new diseases, houses learning from experience to optimize energy costs based on the particular usage patterns of their occupants, or personal software assistants leaming the evolving interests of their users to highlight specially relevant stories from the online morning newspaper.
+
+
+
+--- OCR_page_4 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+صفحه ۳
+زبان تخصصی (کد ۱۲۷۷)
+MSc-PhD Computer-IT www.konkurcomputer.ir
+18. The best topic for this passage would be:
+1) Future of E-Learning.
+2) Goals of Artificial Intelligence.
+3) Treatment of New Diseases in the Future.
+4) Optimization of Energy Costs Related Software.
+19. According to the passage which one of the following statements is true?
+1) It has been natural for computers to be able to learn energy costs using software assisted evolving systems.
+2) It is possible to use relevant stories from the online morning newspaper to evolve interests of their readers.
+3) It is possible to use personal software to compute the energy costs based on the patterns of their occupants way of living.
+4) It has been natural for people to be curious if computers could ever become clever enough to find the means and ways of the treatment of new diseases.
+20. According to he passage, which one of the following statements is true?
+1) Houses learn to maximize the efficiency of energy usage.
+2) It isn't possible to imagine that the computers are able to learn.
+urcouter.in
+3) Right after the invention of computers, people questioned if this device could learn on its own. 4) Medical discoveries, optimization of energy costs, and evolving interests of the software users to highlight relevant stories are the only few things computers are able to do at present time.
+PASSAGE IV:
+be
+The idea of defining languages and their grammar with mathematical precision goes back to N. Chomsky. It became clear, however, that the presented, simple scheme of substitution rules was insufficient to represent the complexity of spoken languages. This remained true even after the formalisms were considerably expanded. In contrast, this work proved extremely fruitful for the theory of programming languages and mathematical formalisms. With it, Algol 60 became the first programming language to be defined formally and precisely. In passing, we emphasize that this rigour applied to the syntax only, not to the semantics.
+ww
+21. It is clear from the passage that the idea of precisely defining grammars: 1) was not sufficient in description of spoken languages.
+2) could help in precise definition of the semantics of programming languages. 3) without being considerably expanded, was not useful in definition of Algol 60, 4) was fruitful, after expansion, in representing the complexity of spoken language.
+22. The best topic for this passage would be:
+1) Complexity of Spoken Languages.
+2) Algol 60 as the First Programming Language.
+3) Formal Definition of the Syntax of Programming Languages.
+4) N.Chomsky, the Founder of Mathematical Formalism for Defining Programming Languages.
+23. According to the passage, which on of the following statements is true?
+1) The expansion of Chomsky's work failed in precisely defining the Algol 60.
+2) The work of Chomsky clearly describes the complexity of natural languages.
+3) Algol 60 was the first programming language to be defined based on the work of Chomsky.
+4) The work of Chomsky serves as an excellent formalism for definition of semantics of programming languages.
+
+
+
+--- OCR_page_5 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۴
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان تخصصی (کد ۱۲۷۷)
+PASSAGE V:
+Changing the way we think, of course, was the cardinal objective of many early computer visionaries: Vannevar Bush's seminal 1945 essay that envisioned the modern, hypertext-driven information machine was called "As We May Think"; Howard Rheingold's wonderful account of computing's pioneers was called "Tools for Thought." Most of these gurus would be disappointed to find that, decades later, the most sophisticated form of artificial intelligence in our writing tools lies in our grammar checkers.
+The year 2005 may be the year when tools for thought become a reality for people who manipulate words for a living, thanks to the release of nearly a dozen new programs all aiming to do for your personal information what Google has done for the Internet. These programs all work in slightly different ways, but they share two remarkable properties: the ability to interpret the meaning of text documents; and the ability to filter through thousands of documents in the time it takes to have a sip of coffee. Put those two elements together and you have a tool that will have as significant an impact on the way writers work as the original word processors did.
+For the past three years, I've been using tools comparable to the new ones hitting the market, so I have extensive firsthand experience with the way the software changes the creative process. (I have used a custom- designed application, created by the programmer Maciej Ceglowski at the National Institute for Technology and Liberal Education, and now use an off-the-shelf program called DEVONthink.) The raw material the software relies on is an archive of my writings and notes, plus a few thousand choice quotes from books I have read over the past decade: an archive, in other words, of all my old ideas, and the ideas that have influenced me.
+Having all this information available at my fingerprints does more than help me find my notes faster. Yes, when I'm trying to track down an article I wrote many years ago, it's now much easier to retrieve. But the qualitative change lies elsewhere: in finding documents I've forgotten about altogether, documents that I didn't know I was looking for.
+What does this mean in practice? Consider how I used the tool in writing my last book, which revolved around the latest developments in brain science. I would write a paragraph that addressed the human brain's remarkable facility for interpreting facial expressions. I'd then plug that paragraph into the software, and ask it to find other, similar passages in my archive. Instantly, a list of quotes would be returned: some on the neural architecture that triggers facial expressions, others on the evolutionary history of the smile, still others that dealt with the expressiveness of chimpanzees. Invariably, one or two of these would trigger a new association in my head --I'd forgotten about the chimpanzee connection -- and I'd select that quote, and ask the software to find a new batch of documents similar to it. Before long a larger idea had taken shape in my head, built out of the trail of associations the machine had assembled for me.
+Compare that to the traditional way of exploring your files, where the computer is like a dutiful, but dumb, butler: "Find me that document about the chimpanzees!" That's searching. The other feels different, so different that we don't quite have a verb for it: it's riffing, or brainstorming, or exploring. There are false starts and red herrings, to be sure, but there are just as many happy accidents and unexpected discoveries. Indeed, the fuzziness of the results is part of what makes the software so powerful.
+24. Vannevar Bush an Howard Rheingold would disenchanted for;
+1) Tools for thoughts become a reality for people who manipulate words for a living.
+2) The word processor has changed the way we write, but it has not yet changed the way we think. 3) Decades later, the most sophisticated form of artificial intelligence in our writing tools lies in our grammar checkers.
+4) The programs are able to interpret the meaning of text document as well as being able to filter through thousands of documents in the time it take to have a sip of coffee.
+25. What the author means by "people who manipulate words for a living"?
+1) Visionaries like Vannevar Bush an Howard Reingold.
+2) Pioneers,
+3) Computer scientists who develop modern word processors.
+4) Writers,
+
+
+
+--- OCR_page_6 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۵
+زبان تخصصی (کد ۱۲۷۷)
+MSc-PhD Computer-IT www.konkurcomputer.ir
+26. What the expression "the time takes to have a sip of coffee" suggests?
+1) very happy time.
+2) time to have coffee break.
+3) significant amount of time to filter through many documents.
+4) relatively very short time.
+27. Why the author has remarkable experience with the way software alter creativity in writing?
+1) Because the raw material the software relies on is an archive of his writings and notes.
+2) Because he used software tools such as the one by Ceglowski and a software called DEVONthink.
+3) Because programs such as DEVONthink and the one developed by Ceglowski are off-the-shelf.
+4) Because he has done some deep research on the subject and read many books about it over the past decade.
+28. what is the qualitative change made by the new software?
+1) In finding notes faster, retrieving the past articles much easier.
+2) In finding and/or relating the past articles in the archive that were all forgotten about.
+3) In helping the author to revolve around the latest developments in brain sciences.
+4) all of the above.
+29. According to the author, what would be the advantages and disadvantages of these modern software systems?
+Iruramauter.ir
+1) They are rifting or brainstorming or exploring.
+2) They may produce errant results, but they also may track happy accidents and discoveries.
+3) There may be wrong and unfortunate starts, but there would be joyful and delightful surprises and discoveries as well.
+4) both (1) and (2) above.
+30. What would be the best topic for this passage?
+1) Tools for Thought.
+2) World of Artificial Intelligence.
+3) Powerful Software System in Fuzzy Logic, 4) Fuzzy Logic and Artificial Intelligence.
+www

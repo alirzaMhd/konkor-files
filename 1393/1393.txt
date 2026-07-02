@@ -1,0 +1,195 @@
+
+--- OCR_page_2 ---
+
+صفحه ۲
+512D
+زبان عمومی و تخصصی (انگلیسی)
+1-
+1) bizarre
+2) distinct
+2-
+This mildly picaresque novel weekend in a big city.
+1) recounts
+2) accumulates
+3-
+The two companies worked in
+company collapse.
+1) ambivalence
+2) validity
+4-
+The U.S. was accused of
+1) regretting
+5-
+Richard is so
+liver-the two most
+Part A: Vocabulary
+Directions: Choose the word or the phrase (1), (2), (3), or (4) that best completes each sentence. Then mark your answer sheet.
+The two groups of students should be taught differently in that their learning needs are quite
+3) stable
+4) reckless
+a boy's flight from prep school to an eventful
+3) asserts 4) restricts and lowered their prices to make their rival
+3) chaos 4) collusion international efforts to combat global warming. 2) convicting 3) undermining 4) accelerating that his diet consists almost exclusively of catfish and chicken inexpensive foods in the store.
+1) frugal
+2) timid
+6-
+Even after traveling 62 miles, the
+1) congenial
+2) indefatigable
+3) selective runner kept on moving. 3) flimsy
+4) astute
+4) indifferent
+7-
+and other necessities.
+1) warehouses
+2) amenities
+8-
+When Eileen
+1) strengthened
+As we traveled to college for the first time, the family car was laden with books, clothing,
+me to a fight, I could see the hatred in her eyes. 2) derived 3) challenged
+3) fragments
+4) appliances
+4) justified
+9-
+People like to be around George because he is so as no surprise that he has so many good friends. 1) affable
+and good-natured, so it comes
+2) sarcastic
+3) superficial
+4) half-hearted
+10-
+of the tax cuts.
+The new tax policy was criticized in that it was argued that the rich were actually the main
+1) hedonists
+2) savants
+3) benefactors
+4) beneficiaries
+Part B: Cloze Passage
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.
+level of individual atoms. (13)_
+at the
+Quantum teleportation exploits some of the most basic (and peculiar) features of quantum mechanics, (11) in the first quarter of the 20th century to explain (12) the beginning, theorists realized that quantum physics led to a plethora of new phenomena, (14) defy common sense. Technological progress in the final quarter of the 20th century has enabled researchers to conduct many experiments that not only demonstrate fundamental, sometimes bizarre aspects of quantum mechanics but, (15) in the case of quantum teleportation, apply them to achieve
+previously inconceivable feats.
+11- 1) invented a branch of physics
+3) a branch of physics was invented
+12- 1) occurrence in processes
+2) a branch of physics invented
+4) that invented a branch of physics
+2) that processes that occur
+4) processes of occurrence
+3) processes that occur
+13-
+1) Since
+2) Of
+3) From
+4) For
+14-
+1) some of which
+2) some of them
+15- 1) also
+2) as
+3) some of those 3) like
+4) of them some 4) such a
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+512D
+زبان عمومی و تخصصی (انگلیسی)
+Directions: Read the following passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+Passage 1:
+Driven by a new generation of wireless devices, user data traffic and the corresponding network load are increasing in an exponential manner. As a result, conventional homogeneous cellular deployments that are devised to cater to large coverage areas and optimized for homogeneous traffic are facing unprecedented challenges to meet the increasing demands. In order to enhance network capacity, there has been an increasing interest in deploying relays, distributed antennas, and small cells (such as picocells and femtocells) underlying current macrocell networks. Such network deployments are commonly referred to as heterogeneous and small cell networks (HetSNets). By deploying small cells within the local-area range and bringing the network closer to end-users, HetSNets can potentially improve spatial resource reuse and communication coverage, thus allowing future cellular networks to achieve higher data rates, while retaining the seamless connectivity and mobility of current cellular network deployments.
+HetSNets inspire new challenges on resource management, signal processing, and security in the design of cellular systems. In many settings, HetSNets will require development of decentralized algorithms and autonomous operations of nodes, because of the delays and overhead in the backhaul connections between the nodes. Novel approaches for interference coordination and mitigation algorithms considering the characteristics of heterogeneous network interference will also become important. Cognitive radio techniques become more practical by viewing the macrocell network as the primary user and the second-tier network as the secondary user. This special issue aims to bring together contributions from academic and industrial researchers in the area of signal processing and resource management for wireless communications with an emphasis on heterogeneous networks.
+16- The term “conventional” underlined in the provided text refers to:
+2) Typical
+3) Social
+4) Radical
+1) Partial 17- According to the provided text, exponential growth of data traffic is due to: 1) Heteregenous networks deployment need.
+2) Role of devices in macrocell, picocells and femtocells.
+3) Security signalling overhead for data protection and privacy.
+4) Wireless communication coverage on heterogoneous networks.
+18- The underline term "unprecedented” in the provided text yields: 2) Worldbreaking 3) Mindstoriming
+1) Groundbreaking
+19- Which one of the following statements is FALSE:
+1) Size of cells are proportional to network capacity.
+4) Upcoming
+2) Network capacity can be increased by increasing number of relays. 3) Higher number of users support can be met by deployment of HetSNets. 4) Seamless mobility and connectivity assures spatial resource management. 20- The underlined term "Autonomous” in the provided text means: 3) Autonomic
+1) Independent
+2) Automatic
+4) Driven
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+512D
+زبان عمومی و تخصصی (انگلیسی)
+:
+:
+:
+Passage 2:
+The emerging smart energy system is expected to be a large-scale cyber-physical system that can improve the efficiency, reliability, and robustness of power and energy grids by integrating advanced techniques from power systems, control, communications, signal processing, and networking. For instance, advanced communications and networking technologies are expected to play a vital role in the future smart grid infrastructures by supporting two-way energy and information flow and enabling more efficient monitoring, control, and optimisation of different grid functionalities and smart power devices. The efficient design of the forthcoming smart grid system faces a plethora of challenges at different levels ranging from communications and networking to control and power systems.
+Smart meters, which transmit radio frequencies (RF) to provide two-way secure communication of electricity usage data to the electric company, will begin to replace mechanical meters used in homes and businesses. These devices have raised concerns among some consumers about cybersecurity threats and RF's impact on human health. Cybersecurity threats can cause disruptions in the flow of power and other problems if cyber intruders send computer signals to the electronic controls used in some electric generation and transmission infrastructures. The electric power industry takes cybersecurity threats very seriously. In fact, electric companies must meet mandatory cybersecurity standards that require them to implement training programs, address physical security, and formulate plans for how they will recovery from such attacks.
+As the smart grid is built, electric companies are incorporating cybersecurity protections into both the grid architecture and the new smart grid technologies. The electric power industry is working closely with vendors, manufacturers, and government agencies to ensure that the smart grid is secure. These measures will also help to ensure that customer data remains protected from cybersecurity threats.
+The bottom line is that security cannot be added to a system as an afterthought. Strategic consideration of these issues will make a huge difference in the confidence and protection that the overall system provides. This is necessary whether the design effort is focusing on silicon chips, network components, end-user devices, the architecture, or the system as whole. We need to start at the very beginning of any microgrid project and consider privacy and security in all design criteria.
+21- Bottom line, who is responsible to provide cybersecurity for smart grid systems? 1) Silicon chip designers of microgrid projects.
+2) Strategic consideration of electric companies
+3) Vendors, government agencies and electric power industry
+4) End-user devices, the architecture, RF channels and network components
+22- According to the provided text, which of the following statements is TRUE?
+1) A key role in the future smart grid infrastructureis advanced communications and networking technologies.
+2) Networking and communication standard measures will help to ensure that customer data remains protected from cybersecurity threats.
+3) Networking companies are incorporating cybersecurity protections into both the grid architecture and the new smart grid technologies.
+4) Communications and networking to control and power systems in forthcoming smart grid system introduces no new challenges at different levels.
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+512D
+زبان عمومی و تخصصی (انگلیسی)
+23- The underline term "Disruption" in the provided text yields: 3) Depression
+1) Distressed 24- The underline term "Mandatory" in the provided text means:
+2) Disordered
+2) Optional
+1) Updated 25- To attack a smart grid system, cyber intruders can send
+4) Deceased
+3) Obligatory
+4) Technical
+to control the
+infrastructure.
+1) RF signals
+2) Security threat
+3) Computer signals 4) Cybersecurity alarm
+Passage 3:
+Secure transactions across the Internet have three goals. Firstly, two parties engaging in a transaction (for instance, an email or a business order) do not want a third party to be able to read their communication messages. Therefore, some form of data encryption is necessary to prevent this issue. Secondly, the receiver of the message should be able to detect whether someone has tampered the message during the transmission process. This is called a message integrity scheme. Finally, both parties must know that they are communicating with each other, and not an intruder. This is done by means of user authentication techniques. Today's data encryption methods rely on a technique called public-key cryptography. Everyone using the public-key system holds a public-key and a private-key. Messages are encrypted and decrypted with these keys. In other words, an encrypted message with your public-key can only be decrypted by a system that knows your private-key.
+For a communication system to work securely, two parties engaging in a secure transaction must be aware of each other's public-keys. Private-keys, however, are closely guarded secret information known only to their owners. For instance, when I want to send you an encrypted message, I use your public-key to turn my message into gibberish. I know that only you can turn the gibberish back into the original message, as you are the only entity that holds your own private-key. Public-key cryptography also works in reverse; i.e., only your public-key can decipher your private-key's encrypted message.
+26- What is the best title for this passage?
+1) Public-key vs. Private-key
+3) Data Encryption techniques
+2) Safe Data Transfer
+4) Data Security Challenges
+27- What is the best description for the underlined word "gibberish" as highlighted in the provided text?
+28-
+1) Person pretending to be someone else
+3) Meaningless data
+2) Message authentication feature 4) Garbage
+A message encrypted with the recipient's public key can only be decrypted with:
+1) The sender's private-key
+3) The sender's public-key
+2) The recipient's private key
+4) Both recipient's and sender's private key
+29- Which one of the followings is not necessary to achieve a secure transaction via Internet?
+1) Data encryption
+3) Third party detection
+2) User authentication
+4) Message integrity scheme
+2) Data hiding system
+30- Which system is commonly used for data encryption?
+1) Data security system
+3) Private-key system
+4) Public-key system

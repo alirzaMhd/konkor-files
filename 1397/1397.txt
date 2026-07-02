@@ -1,0 +1,223 @@
+
+--- OCR_page_2 ---
+
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+333E
+صفحه ۲
+داوطلب گرامی عدم درج مشخصات و امضا در مندرجات جدول ذیل به منزله عدم حضور شما در جلسه آزمون است. در جلسه این آزمون شرکت مینمایم
+اینجانب
+با شماره داوطلبی
+زبان عمومی و تخصصی (انگلیسی)
+امضا
+PART A: Vocabulary
+Directions: Choose the word or the phrase (1), (2), (3), or (4) that best completes the blank. Then mark the correct choice on your answer sheet.
+1-
+2-
+from the society of the
+In the central highlands of New Guinea the sudden stone ax to the society of sailing ships (and now of airplanes) has not been easy to make. 1) manifestation I want your help with my literature review. to the e-mail are some questions. Please answer them.
+1) Raised
+3-
+4-
+5-
+6-
+2) deterioration
+2) Posed
+-----
+3) transition
+3) Inquired
+4) sophistication
+4) Attached
+There is no single or widely used definition of children's literature. It can be defined as anything that children read or more specifically defined as fiction, non- fiction, poetry, or drama intended for and used by children and young people. 1) broadly 2) optimistically 3) controversially 4) neutrally When many of the spoken languages of the Native American Indians were as a result of colonialism by English, French, Spanish or Portuguese, they became extinct. 1) distributed During the winter storm, the road conditions were so cancelled for a week. 1) reckless
+2) replicated
+2) deplorable
+3) illustrated
+3) superficial
+4) replaced
+that schools were
+4) erratic
+Laying a bouquet of flowers and the gift-wrapped doll upon the bed, the young mother kissed the sleeping Soha and said this: "A happy birthday, and God bless you, my daughter!"
+1) beneficence
+7-
+People who
+1) chase
+8-
+1) taken
+9-
+2) malediction
+3) benediction
+4) valediction their dreams do what they love and they go for greatness. 3) gather 4) require
+2) involve
+Attention is essential in achieving anything. If you can't pay attention, you can't get the job-----
+2) made
+2) originally
+3) tried
+4) done
+Everything man-made around you was ----------- a thought in someone's head. 1) socially
+3) quickly
+10- The strength of the United Nations is dependent upon the
+countries.
+1) encounter
+2) assumption
+3) cooperation
+4) desirably
+--- of its member
+4) urgency
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+333E
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+PART B: Cloze Passage
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+I can put my cash card into an ATM anywhere in the world and take out a fistful of local currency, while the corresponding amount (11) -------- from my bank account at home. I don't even think twice: (12) the country, I trust that the system will work.
+The whole world runs on trust. We trust that people on the street won't rob us, (13) the bank we deposited money in last month returns it this month, that the justice system punishes the guilty (14). We trust the food (15) won't poison us, and the people we let in to fix our boiler won't murder us.
+11- 1) to debit
+4) debiting 4) regardless of 4) though
+2) is debited
+3) debits
+12- 1) in spite of
+2) in relation to
+3) no matter
+13- 1) that
+2) and
+3) for
+14- 1) and the innocent exonerated
+3) in order for innocent to exonerate
+2) and exonerates the innocent
+4) which it exonerates the innocent
+15- 1) is bought
+2) which we buy it 3) we buy
+4) to buy
+PART C: Reading Comprehension
+Directions: Read the following four passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+Systems engineering is an interdisciplinary field of engineering and engineering management that focuses on how to design and manage complex systems over their life cycles. At its core, systems engineering utilizes systems thinking principles to organize this body of knowledge. Issues such as requirements engineering, reliability, logistics, coordination of different teams, testing and evaluation, maintainability and many other disciplines necessary for successful system development, design, implementation, and ultimate decommission become more difficult when dealing with large or complex projects. Systems engineering deals with work-processes, optimization methods, and risk management tools in such projects. It overlaps technical and human-centered disciplines such as industrial engineering, mechanical engineering, manufacturing engineering, control engineering, software engineering, electrical engineering, cybernetics, organizational studies and project management. Systems engineering ensures that all likely aspects of a project or system are considered, and integrated into a whole.
+The systems engineering process is a discovery process that is quite unlike a manufacturing process. A manufacturing process is focused on repetitive activities that achieve high quality outputs with minimum cost and time. The systems engineering process must begin by discovering the real problems that need to be resolved, and identify the most probable or highest impact failures that can occur - systems engineering involves finding solutions to these problems.
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+333E
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+16- You can infer from the passage that
+1) Large or complex projects are rarely decommissioned
+2) In manufacturing engineering, processes are iteratively minimized
+3) In systems engineering, failures are prioritized prior to resolution
+4) Manufacturing engineering is only concerned with the technical aspects of Large or complex projects
+17- Which of the following has NOT been stated as a concern of systems engineering?
+1) agility
+3) systems design
+2) optimization
+4) problem discovery
+18- According to the passage, systems engineering 1) deals with different environmental issues
+2) is most effective when applied in moderation
+3) deals with diverse aspects of complex systems
+4) is concerned with systems of low-to-moderate complexity
+PASSAGE 2:
+Programming languages share properties with natural languages related to their purpose as vehicles for communication, having a syntactic form separate from its semantics, and showing language families of related languages branch one from another. But as artificial constructs, they also differ in fundamental ways from languages that have evolved through usage. A significant difference is that a programming language can be fully described and studied in its entirety, since it has a precise and finite definition. By contrast, natural languages have changing meanings given by their users in different communities. While constructed languages are also artificial languages designed from the ground up with a specific purpose, they lack the precise and complete semantic definition that a programming language has.
+Many programming languages have been designed from scratch, altered to meet new needs, and combined with other languages. Many have eventually fallen into disuse. Although there have been attempts to design one "universal" programming language that serves all purposes, all of them have failed to be generally accepted as filling this role. The need for diverse programming languages arises from the diversity of contexts in which languages are used.
+19- It can be inferred from the passage that natural languages and programming languages are similar in that-
+1) their semantic definitions are precise
+2) they form inter-related families
+3) their usage contexts are immutable
+4) they are converging towards a universal language
+20- Different programming languages are required because
+1) user communities construct their own specific programming languages
+2) programming languages do not evolve
+3) universal natural languages cannot be reused
+4) diverse usage contexts require diverse programming languages
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+333E
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+21- According to the passage, which of the following is true about programming languages? 1) Many of them are no longer used.
+2) Many of them can replace natural languages.
+3) They are the only artificial languages ever constructed. 4) They are the only languages that can be used indefinitely. 22- This passage is mainly about ---
+1) Comparing programming languages to artificial languages 2) Introducing the characteristics of programming languages 3) Introducing the characteristics of artificial languages
+4) Comparing artificial languages to natural languages
+PASSAGE 3:
+DevOps (a clipped compound of "development" and "operations") is a software engineering culture and practice that aims at unifying software development (Dev) and software operation (Ops). The main characteristic of the DevOps movement is to strongly advocate automation and monitoring at all steps of software construction, from integration, testing, and releasing to deployment and infrastructure management. DevOps aims at shorter development cycles, increased deployment frequency, and more dependable releases, in close alignment with business objectives.
+Companies that practice DevOps have reported significant benefits, including: significantly shorter time to market, improved customer satisfaction, better product quality, more reliable releases, improved productivity and efficiency, and the increased ability to build the right product by fast experimentation.
+However, a study released in January 2017 of almost 2,200 IT executives and industry professionals found that only one in five surveyed think DevOps had a strategic impact on their organization despite the rise in usage. The same study found that only 17% identified DevOps as key, well below software as a service (42%), big data (41%) and public cloud infrastructure as a service (39%).
+To practice DevOps effectively, software applications have to meet a set of architecturally significant requirements (ASRS), such as: deployability, modifiability, testability, and monitorability. These ASRS require a high priority and cannot be traded off lightly.
+23- Which of the following titles is most appropriate for this passage?
+1) DevOps: A Brief History
+2) DevOps: Capabilities and Limitations
+3) DevOps: Why Is It Considered Harmful?
+4) DevOps: A Total Solution for All Your problems
+24- Which of the following can be inferred from the passage?
+1) Effective application of DevOps requires changeability of standards. 2) DevOps can improve the quality of the artifacts produced.
+3) Practitioners unanimously agree that DevOps is strategically effective. 4) DevOps is mainly concerned with project management activities.
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+333E
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+25- According to the passage, which of the following is true about DevOps?
+1) It is dominant in business-oriented organizations.
+2) It is mainly concerned with coding and testing. 3) It can replace "software as a service" solutions. 4) It can increase overall development speed.
+PASSAGE 4:
+All hackers seem to have one thing in common: they enjoy figuring out how things work. They are often, but not necessarily, computer prodigies. They apply their natural curiosity to understanding computer applications and systems They gain an intimate knowledge of these applications and systems.
+The white hat hacker has immaculate computer ethics. It a white hat hacker discovers a security weakness in a computer network, the hacker would naturally inform the network administrator of the problem and perhaps cordially offer some advice on how to address the problem.
+The black hat hacker, on the other hand, can be cunning and even malicious. In some circles, the term cracker is used instead.
+Black hat crackers have broken into computer networks and used that access to steal money. They have threatened to damage computers and computer networks. In between the white hat and the black hat there is the gray hat hacker. Gray hat hackers find their way into computer systems and networks, but they are not quick to inform the owner of the security problem. At the same time, they are not usually intent on mangling the system software or memory' either. There have been cases of gray hats leaving behind messages or defacing websites with electronic graffiti in order to let others know that they were capable of getting in, but not doing any real damage. So, while gray hats wouldn't likely stand up for the rights of network owners or managers, they are also likely to do little or no damage.
+In conclusion, it seems the future of white hat hackers is secure as their skills are in demand to secure the vast number of computer networks arourid the world. There is certainty more pressure than ever on gray hat hackers to stop their activities. Mon people are questioning their rationale, because today's corporations and governments simply have too much at stake to allow them to casually enter their networks. In recent years, gray hats have been attested and prosecuted for crimes that might have been ignored in the past. And finally while the early black hat hackers were never severely punished, their activities are today taken more seriously than ever before. However, the problem of the black hat hacker is sure to continue.
+26- The author's purpose in writing this passage is to
+1) show that the hackers are not as bad a people think 2) warn the reader to avoid hacker while on the internet 3) convince the readers that gray hats are mostly ethical 4) inform the readers about various types of hackers 27- You can infer from paragraph 2 that white hat hackers 1) ask permission before entering a computer network
+-----
+2) often ensure the security of organization's information system
+3) usually report the illegal happenings occurred in cyber environments
+4) use dissimilar methods compared to other hackers for breaking into computer network.
+
+
+
+--- OCR_page_7 ---
+
+صفحه ۷
+28- Black hat hackers
+1) retrieve cyber crimes
+333E
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+2) perpetrate computer frauds
+3) show skills in achieving one's ends by deceit
+4) are the epitome of all that the public do in a computer network
+29- It's stated in the passage that the hackers
+1) are cordial computer programmers that use bugs or exploits to break into computer systems
+2) are experienced computer experts using their technical knowledge to overcome a problem
+3) have a level of knowledge sometimes equal or superior to the creators' themselves 4) have malicious forgers to damage computers and computer networks
+30- Which type of hacker is most likely to disappear in the future?
+1) The gray hat hacker
+2) The black hat hacker
+3) The white hat hacker
+4) They are all likely to disappear
+ریاضیات (ریاضی عمومی (۱و۲) معادلات دیفرانسیل آمار و احتمال مهندسی، ریاضیات گسسته)
+بیشترین مقدار اندازه z کدام است؟
+92-i ۲ + ۳iz
+۳۱ در بین اعداد مختلط که ۱
+-13-14 -12 -12
+(۴)
+۳۲ ناحیه بین منحنی x = e + siny و x = sin y برای ] را حول محور x ها دوران میدهیم. حجم
+جسم به دست آمده کدام است؟
++00
+( - ۲۲ - ۲ (۱)
+( - ۱۲ - ۲ )
+л(π-у)е +л (Y
+五
+л(л-1)е+л (†
+و cos(t) at | به ترتیب از راست به چپ، کدام است؟ - همگرایی یا واگرایی انتگرالهای cost dt
+(۴) واگرا - همگرا
+(۳) همگرا - واگرا
+(۱) همگرا - همگرا
+(۲) واگرا - واگرا

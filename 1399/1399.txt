@@ -1,0 +1,206 @@
+
+--- OCR_page_2 ---
+
+مجموعه مهندسی کامپیوتر (کد (۱۲۷۷)
+534B
+صفحه ۲
+داوطلب گرامی عدم درج مشخصات و امضا در مندرجات جدول ذیل به منزلة عدم حضور شما در جلسه آزمون است. با آگاهی ،کامل یکسان بودن شماره صندلی خود را
+اینجانب
+با شماره داوطلبی
+با شماره داوطلبی مندرج در بالای کارت ورود به جلسه بالای پاسخنامه و دفترچه سؤالات نوع و کد کنترل درج شده بر روی دفترچه سؤالات و پائین پاسخ نامه ام را تأیید مینمایم
+زبان عمومی و تخصصی (انگلیسی)
+امضا
+1-
+2-
+they're ineffective.
+1) persistent
+3-
+4-
+5-
+PART A: Vocabulary
+Directions: Choose the word or the phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the answer on your answer sheet.
+Living close to a lake means we have an ---------- --- supply of water. 1) inherent
+2) abundant
+3) inconsistent
+The advertisement for the weight loss pills is very
+2) interminable
+2) proximity
+3) sensitive
+The twins hated to be apart, so they bought houses in close 1) pertinence 3) acquaintance With few new jobs created, the economy has remained 1) conservative
+2) unfeasible
+3) stagnant
+4) eclectic
+since studies have shown
+4) misleading
+to each other. 4) scrutiny
+-- for the past five years.
+Two days after the flood, fortunately the seawater finally began to house.
+4) impassive
+from our
+1) recede
+2) secede
+3) proceed
+4) intercede
+6-
+The business used only to make bicycles, but they've now
+cycling products.
+7-
+1) diversified into 2) emerged from The audience clearly loved the play-the that it got glowing reviews.
+1) merit
+2) rivalry
+8-
+10-
+a range of other
+3) reverted to 4) stemmed from ---------- was deafening. So it's not surprising
+4) benediction Gary Paulsen from competing in the
+Experienced Iditarod runners tried to grucling Alaska race, but they were not successful. The writer and his team of sled dogs nearly perished during the race.
+1) clicit
+9.
+2) derive
+3) snatch
+4) dissuade The Kalapalo Indians, who live on the savannas of central Brazil, have little ---------- to change their leisurely lifestyle. They work just several hours a week to provide food, their only need. 1) disinterest
+2) impetus
+3) impact
+4) rigidity
+by the rude behavior of the clerk, Ms. Caine reported him to the manager. She believes that customers deserve courteous treatment, even when returning merchandise. 1) Withdrawn
+2) Arisen
+3) Restricted
+4) Incensed
+3) applause
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+534B
+مجموعه مهندسی کامپیوتر (کد ۱۲۷۷)
+PART B: Cloze Test
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the answer on your answer sheet.
+While elephants are often one of a zoo's top attractions, a new report charges that their level of care often falls short of star treatment. In a study (11) - this week, the UK's Royal Society for the Protection of Cruelty to Animals (RSPCA) said elephants in European zoos are often unhealthy, (12) considerable stress, and have a
+much shorter life than their counterparts in the wild. Their condition is frequently even worse than (13) ---------- in Asian timber camps, alleges the RSPCA, (14) ---- is calling for wide-ranging changes in the way (15) - In the meantime, the group
+says, European zoos should stop importing and breeding elephants.
+11- 1) released
+2) was released
+3) it is released
+12- 1) to endure
+2) they endure
+3) by enduring
+4) that releases 4) endure
+13- 1) elephants
+14- 1) it
+2) elephants do 2) which
+3) that of elephants
+4) for elephants
+3) that
+4) that it
+15- 1) zoo elephants are treated
+3) elephants are treated by in zoo
+2) in zoos are treated elephants
+4) that elephants being treated in zoos
+PART C: Reading Comprehension
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+Computer-aided engineering (CAE) is an important subject within engineering, and some quite sophisticated PSEs have been developed for this field. A wide variety of numerical analysis techniques is involved in solving such mathematical models. The models follow the basic Newtonian laws of mechanics, but there is a variety of possible specific models, and research continues on their design. One important CAE topic is that of modeling the dynamics of moving mechanical systems, a technique that involves both ordinary differential equations and algebraic equations (generally nonlinear). The numerical analysis of these mixed systems, called differential- algebraic systems, is quite difficult but necessary in order to model moving mechanical systems. Building simulators for cars, planes, and other vehicles requires solving differential-algebraic systems in real time.
+Another important application is atmospheric modeling. In addition to improving weather forecasts, such models are crucial for understanding the possible effects of human activities on the Earth's climate. In order to create a useful model, many variables must be introduced. Fundamental among these are the velocity V (x, y, z, I). pressure P (x, y, z, t), and temperature T (x, y, z, t), all given at position (x, y, z) and time t. In addition, various chemicals exist in the atmosphere, including ozone, certain chemical pollutants, carbon dioxide, and other gases and particulates, and their
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+534B
+مجموعه مهندسی کامپیوتر (کد (۱۲۷۷)
+interactions have to be considered. The underlying equations for studying V (x, y, z, t). P (x, y, z, t), and T (x, y, z, t) are partial differential equations; and the interactions of the various chemicals are described using some quite difficult ordinary differential equations. Many types of numerical analysis procedures are used in atmospheric modeling, including computational fluid mechanics and the numerical solution of differential equations. Researchers strive to include ever finer detail in atmospheric models, primarily by incorporating data over smaller and smaller local regions in the atmosphere and implementing their models on highly parallel supercomputers. Modern businesses rely on optimization methods to decide how to allocate resources most efficiently. For example, optimization methods are used for inventory control, scheduling, determining the best location for manufacturing and storage facilities, and investment strategics.
+16- All of the following are mentioned in paragraph 1 about the mathematical models in CAE except
+1) Researchers are still working on their design
+2) They are based on the Newtonian laws of mechanics
+3) A range of specific models are possible
+4) A single technique of numerical analysis is employed to solve these models
+17- According to paragraph 1, modeling moving mechanical systems cannot be performed without
+1) complex differential equations
+2) developing simulators for cars
+3) a profound understanding of algebra
+4) the numerical analysis of differential algebraic systems
+18- Atmospheric modeling is an application of
+1) weather forecasts
+3) moving mechanical systems
+2) computer-aided engineering
+4) differential algebraic systems
+19- Why does the author mention velocity, pressure, and temperature in paragraph 2? 1) To point out some of the variables essential to developing atmospheric models
+2) To show how they cannot be considered without position and time
+3) To introduce the basic factors that affect human activities
+4) To discuss how they influence one another
+20- According to paragraph 2, efficient allocation of resources can be achieved through
+1) partial differential equations
+3) optimization methods
+PASSAGE 2:
+2) parallel supercomputers 4) investment strategies
+Many software bugs are merely annoying or inconvenient, but some can have extremely serious consequences - either financially or as a threat to human well-being. The following are a number of recent ones:
+An astronomical satellite was destroyed on March 26, 2016, when a thruster fired in the wrong direction, causing the spacecraft to spin faster instead of stabilizing it.
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+534B
+مجموعه مهندسی کامپیوتر (کد (۱۲۷۷)
+•
+In early 2019, a transportation-rental firm discovered a firmware bug in its electric scooters that could cause them to brake unexpectedly, which might hurl and injure riders.
+• An unmanned spacecraft's mission to the moon was rendered unsuccessful on April 11, 2019, due to a software bug in its engine control system, which prevented it from slowing down during its final descent on the moon's surface. Engineers attempted to correct this bug by remotely rebooting the engine, but by the time they regained control of it, the spacecraft could not slow down in time to avert a hard crash-landing that disintegrated it.
+21- Which of the following can be inferred from the passage?
+22-
+1) Some software bugs are impossible to detect.
+2) Software bugs are usually corrected by rebooting the system.
+3) Some software bugs may go undetected until they cause serious harm.
+4) Software bugs can be detected efficiently through test-driven development. Which of the bugs mentioned in the passage threatened human well-being? 1) A hardware bug in brakes
+2) A firmware bug in scooters
+3) A software bug in engine control system
+4) A software bug in thruster control system
+23- Which of the following is more appropriate as a title for this passage? 1) Notorious Software Bugs
+2) Prominent Debugging Methods
+3) Bugs: Hardware and Software
+4) Bugs: Unavoidable Causes and Consequences
+24- Which of the following words is closer in meaning to "avert"?
+1) Clear
+2) Avoid
+3) Resolve
+25- The satellite mentioned in the passage was destroyed because 1) its descent velocity could not be reduced quickly enough 2) its orbit had to be changed sooner than planned
+3) its spinning velocity went out of control
+4) its thrusters could not be ignited
+PASSAGE 3:
+4) Forfeit
+Social computing is an area of computer science that is concerned with the intersection of social behavior and computational systems. It is based on creating or recreating social conventions and social contexts through the use of software and technology. Thus, blogs, email, instant messaging, social network services, wikis, social bookmarking and other instances of what is often called social software illustrate ideas from social computing. The premise of social computing is that it is possible to design digital systems that support useful functionality by making socially produced information available to their users. This information may be provided directly, as when systems show the number of users who have rated a review as helpful or not. Or the information may be provided after being filtered and aggregated, as is done when systems recommend a product based on what else people with similar purchase history have purchased.
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+534B
+مجموعه مهندسی کامپیوتر (کد (۱۲۷۷)
+In the past, to study the characteristics of social networks, questionnaires were designed, and volunteers in the network were invited to complete questionnaires. However, the amount of data collected from questionnaires was too huge and not enough to understand the whole perspective and essential mechanism of social events. With the development of mobile sensing, computer networks and artificial intelligence in recent years, it is possible to collect an abundance of data from various social multimedia. Big data in social networks also bring challenges in how to process social data and investigate human behavior. In addition, there are new and complex features in social networks, such as heterogeneous human properties, dynamic network structures, and random interpersonal interactions. Therefore, advanced multidisciplinary data collection and data mining methods should be proposed for social computing and developed to study social networks. We aim to provide comprehensive and high quality strategies, methods, architecture, algorithms, and features of the advanced data mining tools, and methods for social computing.
+26- The author starts the passage with
+1) exemplifying computational systems
+2) defining a specific area of computer science
+3) describing the challenges to social computing
+4) illustrating how social behavior and computational systems are similar
+27- The word "aggregated" in paragraph 1 is closest in meaning to
+1) clustered
+2) examined
+3) exported
+4) transferred
+28- According to paragraph 2, studying social networks through questionnaires 1) produces data that cannot be analyzed without professional software 2) normally provides insufficient data due to lack of enough volunteers
+29-
+3) can only reveal the essential mechanism of social events
+4) does not result in a full understanding of social events
+Which of the following is not a challenge to social computing?
+1) Processing big social data
+2) Investigating heterogeneous human properties in social networks
+3) Advent of complex features in social networks
+4) Collection of large data from social multimedia
+30- In paragraph 2, the author mentions "random interpersonal interactions" as
+1) a reason why new types of questionnaires are needed for studying social networks 2) an example of the unpredictability of social networks
+3) a new and sophisticated feature in social networks
+4) what dynamic network structures include

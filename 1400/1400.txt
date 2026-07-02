@@ -1,0 +1,210 @@
+
+--- OCR_page_2 ---
+
+صفحه ۲
+830A
+مهندسی کامپیوتر - کد (۱۲۷۷)
+داوطلب گرامی، عدم درج مشخصات و امضا در مندرجات جدول ذیل به منزلة عدم حضور شما در جلسه آزمون است. با آگاهی کامل یکسان بودن شماره صندلی خود را
+اینجانب
+با شماره داوطلبی
+با شماره داوطلبی مندرج در بالای کارت ورود به جلسه بالای پاسخ نامه و دفترچه سؤالات نوع و کد کنترل درج شده بر روی دفترچه سؤالات و پائین پاسخ نامه ام را تأیید مینمایم
+1-
+امضا
+زبان عمومی و تخصصی (انگلیسی)
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes cach sentence. Then mark the correct choice on your answer sheet.
+During the ---------- between arriving at the airport and boarding the plane, we'll probably do a bit of window shopping. 1) interval
+2-
+That ugly vacant lot
+1) depletes
+2) derives
+2) intervention 3) imbalance from the beauty of the neighborhood. 3) detracts
+4) inconsistency
+4) deviates
+3-
+1) prosper
+2) subside
+4-
+The movement of clouds may seem to be pattern to how they move.
+At first, the Savings Mart didn't do well, but after it lowered its prices and increased its advertising, the store began to ----
+4) strive -------- but scientists know that there is a
+3) arise
+1) compatible
+2) specific
+3) transient
+5-
+to be a great
+1) illusion
+2) triumph
+6-
+The hardware store sells ---
+4) random
+Since my math class was very difficult for me, I consider the B that I got for the course
+3) obligation 4) disapproval stones made of plastic that you can open and hide a house key in. Then you can hide the key by leaving the "stone" somewhere near your door.
+2) artificial
+3) superficial
+Rhoda's budget is so tight that she felt it would be
+1) confidential
+7-
+dollar pair of earrings.
+1) plausible
+2) tangible
+8-
+3) sufficient
+4) metaphorical
+to buy herself even a ten-
+4) extravagant
+When the climbers reached the peak of the tallest mountain in the world, they felt it was a ---------- occasion and were filled with pride.
+2) moribund
+3) meticulous
+4) momentous
+The ramification of committing a murder is to serve a prison sentence even if you your actions.
+1) momentary
+9-
+1) implement
+2) renew
+3) regret
+4) exceed
+10- It is often an attorney's job to construe the meaning of a contract and then share that with a client and, if needed, with a judge or jury.
+1) justification 2) interpretation
+3) transformation
+4) condemnation
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+830A
+مهندسی کامپیوتر ـ کد (۱۲۷۷)
+PART B: Cloze Test
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+all sorts of programs on
+For 20 years, children have been treated (11) television which are supposed to help them become better at skills such as reading and math. These programs have presented (12)
+of letters as nothing but fun, (13)
+such as counting and recognition by such things as rainbows and jumping
+frogs. (14) ---------- no improvement in children's abilities in literacy and numeracy (15). These fun ways of teaching such skills don't seem to work.
+11- 1) in
+2) for
+12- 1) the learning of skills
+3) the skills of learning
+3) being accompanied
+13- 1) are accompanied
+14- 1) In spite of
+15- 1) would observe
+3) to
+2) skills to learn
+4) on
+4) learning of skills in
+2) to accompany
+4) to be accompanied
+2) But
+3) Although
+2) it observes
+4) Whereas
+4) to be observed
+3) has been observed
+PART C: Reading Comprehension
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+A February 2020 European Union white paper on artificial intelligence advocated for artificial intelligence for economic benefits, including "improving healthcare (e.g. making diagnosis more precise, enabling better prevention of diseases), increasing the efficiency of farming, contributing to climate change mitigation and adaptation, [and] improving the efficiency of production systems through predictive maintenance", while acknowledging potential risks.
+The relationship between automation and employment is complicated. While automation climinates old jobs, it also creates new jobs through micro-economic and macro-economic effects. Unlike previous waves of automation, many middle-class jobs may be eliminated by artificial intelligence; The Economist states that "the worry that AI could do to white-collar jobs what steam power did to blue-collar ones during the Industrial Revolution" is "worth taking seriously".
+Subjective estimates of the risk vary widely; for example, Michael Osborne and Carl Benedikt Frey estimate 47% of U.S. jobs are at "high risk" of potential automation, while an OECD report classifies only 9% of U.S. jobs as "high risk". Jobs at extreme risk range from paralegals to fast food cooks, while job demand is likely to increase for care-related professions ranging from personal healthcare to the clergy. Author Martin Ford and others go further and argue that many jobs are routine, repetitive and (to an AI) predictable; Ford warns that these jobs may be automated in the next couple of decades.
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+830A
+مهندسی کامپیوتر - کد (۱۲۷۷)
+Economists point out that in the past technology has tended to increase rather than reduce total employment, but acknowledge that "we're in uncharted territory" with Al.
+Irakli Beridze, Head of the Centre for Artificial Intelligence and Robotics at UNICRI, United Nations, has expressed that "I think the dangerous applications for Al, from my point of view, would be criminals or large terrorist organizations using it to disrupt large processes or simply do pure harm. [Terrorists could cause harm] via digital warfare, or it could be a combination of robotics, drones, with AI and other things as well that could be really dangerous. Things like lethal autonomous weapons systems should be properly governed otherwise there's massive potential of misuse."
+—
+16- What does the passage mainly discuss?
+1) The potential risks of AI
+3) The economic benefits of AI
+2) How Al affects healthcare 4) AI-related job opportunities
+17- Which of the following is NOT mentioned in paragraph 1 as a positive point about Al? 1) Improving agriculture
+2) Expediting climate change
+3) Enhancing disease prevention
+4) Making production systems more efficient
+18- According to paragraph 2, the new wave of automation can
+1) cradicate blue-collar jobs
+2) create many white-collar jobs
+3) eliminate many middle-class jobs
+4) have micro-economic effects but not macro-economic ones
+19- According to paragraph 2, which professions are less likely to be automated?
+1) paralegals
+3) fast food cooks
+2) routine jobs
+4) care-related jobs
+20- According to Irakli Beridze, the main cause for concern regarding AI is
+1) its use in warfare
+2) that criminals or terrorists can use it
+3) that it causes widespread unemployment 4) its combination with drones and roboties
+PASSAGE 2:
+Since making its first appearance in the 1960s, the computer corpus has infiltrated all fields of language-related research, from lexicography to literary criticism through artificial intelligence and language teaching. This widespread use of the computer corpus has led to the development of a new discipline which has come to be called *corpus linguistics', a term which refers not just to a new computer-based methodology. but as Leech puts it. to a new research enterprise', a new way of thinking about language, which is challenging some of our most deeply-rooted ideas about language. With its focus on performance (rather than competence), description (rather than universals) and quantitative as well as qualitative analysis, it can be seen as contrasting sharply with the Chomskyan approach and indeed is presented as such by Leech. The two approaches are not mutually exclusive however. Comparing the respective merits of corpus linguistics and what he ironically calls armchair linguistics. Fillmore comes to the conclusion that the two kinds of linguists need
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+830A
+مهندسی کامپیوتر - کد (۱۲۷۷)
+each other. Or better, that the two kinds of linguists, wherever possible, should exist in the same body."
+The computer plays a central role in corpus linguistics. A first major advantage of computerization is that it liberates language analysts from drudgery and empowers [them] to focus their creative energies on doing what machines cannot do. More fundamental, however, is the heuristic power of automated linguistic analysis, i.c. its power to uncover totally new facts about language. It is this aspect, rather than the mirroring of intuitive categories of description' that is the most novel and exciting contribution of Corpus Linguistics.
+English is undoubtedly the language which has been analyzed most from a corpus linguistics perspective. Indeed, the first computer corpus to be compiled was the Brown corpus, a corpus of American English.
+21- What is the best title for the passage? 1) Corpus Linguistics 3) Chomskyan Linguistics
+22- According to Leech, corpus linguistics 1) is not a new methodology
+2) can completely change language teaching
+2) Computer Modeling
+4) Advantages of Computerization
+3) is mostly focused on competence rather than performance
+4) is making us revisit our deep-seated ideas about language
+23- What can we infer about the Chomskyan approach from paragraph 1? 1) It contains two main theories.
+2) It is first proposed by Leech.
+3) It forms all our current ideas about language.
+4) It is not centered on performance and description.
+24- The word "uncover" in paragraph 2 is closest in meaning to
+2) invent
+3) interpret
+4) undermine
+1) reveal 25- According to paragraph 2, what is the most exciting contribution of corpus linguistics? 1) Liberating linguists from drudgery
+2) The heuristic power of automated linguistic analysis
+3) The monitoring of intuitive categories of description
+4) The fact that English has been analyzed more than any other language
+PASSAGE 3:
+Low-code platforms (also referred to as low-to-no-code or low-to-zero-code) are modern, highly functional and standardized software solutions, which enables you to build complete business applications without coding, usually thanks to an intuitive graphical user interface and tools that allow you to quickly and easily automate even very complex business scenarios and processes by dragging and dropping things around. Thanks to this approach, they offer maximum benefits even to users who do not have specialized programming knowledge and coding skills. Modern solutions of this kind offer extensive features for effective change management - something that every modern company, which wants to grow dynamically, will surely learn to appreciate.
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+830A
+مهندسی کامپیوتر - کد (۱۲۷۷)
+The ability to build business applications without coding skills effectively supports electronic document management and task workflows. while fostering business process automation and digitalization. The possibilities offered by modern low-code platforms can bring benefits to all companies who want to quickly and efficiently automate their business processes and build business applications that are perfectly tailored to their needs and are easy to modify, without having to establish costly and often troublesome relationships with development teams. Obtaining the full benefits of their capabilities and features is strictly dependent on the functionality, architecture and flexibility of the chosen solution.
+While looking for the best low-code platform that will be able to keep up with the dynamic pace of business growth and effectively support its daily operations, it may be worthwhile to choose a future-proof solution that will allow making the necessary changes and modifications in real time, at every stage of the business application life cycle. This, in turn, will ensure that the selected low-code platform is used not only for quickly building applications tailored to suit the current requirements and needs of the organization, but also modifying them in a safe and efficient manner, without endangering any other deployed applications and implemented processes, to make sure that they always stay up-to-date and support the company's operations.
+26- According to paragraph 1, low-code platforms
+1) are easy to develop
+2) have a graphical user interface
+3) require specialized programming knowledge
+4) help employees casily understand complex business scenarios
+27- All of the following are mentioned in paragraph 2 as the benefits offered by low-code platforms EXCEPT -
+1) efficient business automation
+2) electronic document management
+3) personalized business applications
+4) effective relationship with development teams
+28- The word "their" in paragraph 2 refers to
+I) companies
+3) business processes
+2) low-code platforms
+4) business applications
+29- What can be correctly inferred from the passage about low-code platforms? 1) Coding skills help us obtain their full benefits.
+2) Only development teams can efficiently use them.
+3) They may vary according to their functionality, architecture and flexibility. 4) They support a company's operations without the need for any workforce. 30- Paragraph 3 suggests choosing low-code platforms that offer
+1) a user-friendly interface
+2) quick development of applications
+3) building different applications simultaneously 4) making future modifications to the applications

@@ -1,0 +1,203 @@
+
+--- OCR_page_2 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۱
+Reading Comprehension
+زبان عمومی و تخصصی (کد ۱۲۷۷)
+MSc-PhD Computer-IT www.konkurcomputer.ir
+r.ir
+Directions: Read the following 6 passages and choose the best choice (1), (2), (3), or (4). Then mark it on your answer sheet.
+Passage 1
+What kind of company is Amazon.com? It is usually described as an internet retailer. But it has fingers in many other pies, too. There is A9, its search engine, and Unbox, a video-download service. It operates online stores for other firms, such as Target. It was a pioneer in developing "collaborative filtering" software to make recommendations to shoppers. And some time ago Jeff Bezos, Amazon's boss, was out stumping for three of its "utility computing" offerings: Simple Storage Service ($3), which provides cheap access to online storage; Elastic Compute Cloud, which lets programmers rent. computing capacity on Amazon's systems; and Mechanical Turk, which connects firms with people who perform small tasks that are difficult to automate. When Mr. Bezos talks about these services his firm no longer sounds like a retailer at all.
+In order to cope with the Christmas rush, Amazon has far more computing capacity than it needs for most of the year. As much as 90% of it is idle at times. Renting out pieces of that network to other businesses, such as SmugMug, an online photo site that uses the $3 service, is a way to get extra return on Amazon's $2 billion investment in technology. Amazon is renting out its physical infrastructure too. Last month it announced Fulfillment by Amazon, which allows other firms to use Amazon's staff and warehouse space to send out goods and handle returned items. It also introduced WebStore by Amazon, which provides access to all of Amazon's back-end technology, including ability to offer third-party products.
+Yet shouldn't the retailer stick to its knitting? Ah, but all this technology "is the knitting", insists Mr. Bezos. "This is what we've been doing for 11 years. The only thing that's changed is that we're exposing it for others." It might be accurate, in other words, to start thinking of Amazon not as a retailer so much as a technology and logistics firm.
+According to the text revealed above, which of the following expressions describes what Amazon does?
+1) It is in a tight spot.
+3) It is Jack of all trades.
+2) It is over the moon.
+4) It works under a cloud.
+Which of the following do you think would best suit the company and its management in making use of its assets?
+1) Shrewd.
+2) Accurate.
+In what functional category does Mechanical Turk serve?
+1) Utility computing.
+3) Collaborative filtering.
+3) Conniving.
+2) Computing capacity.
+4) Renting out physical infrastructure.
+4) Collaborative.
+According to the above passage, in which of the following services was Amazon.com the initiator? 1) Renting out pieces of its network.
+2) Providing a video download service.
+3) Providing cheap access to online storage services.
+4) Providing software to make recommendations to shoppers.
+What does Mr. Bezos, Amazon's Boss, think the company should be recognized as?
+1) A retailer.
+3) A utility computing services.
+2) A knitting technology.
+4) A technology and logistics firm.
+
+
+
+--- OCR_page_3 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۲
+MSc-PhD Computer-IT www.konkurcomputer.ir
+Passage 2
+زبان عمومی و تخصصی (کد ۱۲۷۷)
+It isn't just the technology that has changed. Digitization has altered the way we think about photography and photographs. Digital pictures have become malleable throwaways that we relentlessly save. My mother kept an old shoe box holding pictures from long ago. It was full of faded, sepia-toned, quite formal poses of solemn-faced people in stiff collars and long dresses. I don't know who the people were, and by the time I found the shoe box, sadly, there was no longer any way to find out. There were no captions - no tags or metadata, as we would say. Yet in some way, those curled and faded pieces of cardboard were more real than the thousands of vibrant displays of my own informal digital pictures that appear on my computer monitor today.
+The trouble with digital photography begins with the mind-set that it's free, prompting us to take a multitude of thoughtless pictures. Then, because it's also free to save all the pictures, we fill up our disk drives with them, and the few good pictures that should be left to posterity are lost in a glut of trivia. Moreover, there are too many pictures to add captions or descriptions. Instead of a shoe box I'm leaving a vast refuse pile where posterity will be reluctant to tread.
+6- What is the mood of the author in writing the above passage about photography in the past and photography nowadays?
+Vibrant.
+2) Realistic
+3) Nostalgic.
+zurcouruterir
+7- Which of the following statements reveals the most heartfelt feeling of the author? 1)The multitude of digital pictures is vibrant and informal.
+8-
+2) Pictures should have captions unlike the past pictures for which there were no captions and metadata.
+3) Faded pictures of the past kept in a shoe box have more sentimental value than the multitude of digital pictures taken today.
+4) All of the above.
+If you were to think of adjectives differentiating the pictures taken in the past from the digital pictures taken today, which of the following would they be?
+1) A few good pictures as compared to the too many good pictures of today.
+2) A framed mind as compared to today's free minded style.
+3) Faded pictures as compared to the vibrant ones of today.
+4) More real as compared to the thoughtless pictures taken today.
+9- According to the author, the posterity will react to the multitude of digital pictures left for them with
+W
+1) relentlessness
+Passage 3
+2) reluctance
+3) gluttony
+4) refusal
+As the Internet rapidly becomes the way to communicate, cyberspace is getting crowded. Millions of computers and networks effortlessly exchange vast amounts of information using the Internet Protocol. Yet IP has a shortcoming. Each networked device needs to have a unique number to distinguish it from every other device on the Internet. Otherwise, your e-mail, Web pages, instant messages, and the like might be delivered to someone else's computer on the other side of the world. Unfortunately, the Internet is running out of these numbers.
+Each unique number is known as an IP address, and in the IP scheme that runs today's Internet - known as the IPv4, for Internet Protocol version 4 - each address is stored in 4 bytes and is a 32-bit binary number. This means there are 232, or just over 4 billion, unique numbers available. Unfortunately, there are already more than 6 billion people on Earth, and although not everyone has an Internet-connected computer, the rest of us are making up for them with our servers, personal computers, PDAs, mobile phones and so on. And even in poorer regions of the world, Internet use is exploding. The day will come when the world simply runs out of IPv4 addresses. And that's only one of the ways in which IPv4 is falling behind the times. IPv4 calls for very little in the way of security standards, which is one of the reasons security on the Internet is tough to enforce. IPv4 has very little support for real-time applications - telephony, videoconferencing, online games, live sports-watching, and so on -- that do not tolerate transmission lags of even a few hundred milliseconds. Although such services are available today, reliability is not guaranteed, so dropped or stuttering connections are
+common.
+
+
+
+--- OCR_page_4 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+MSc-PhD Computer-IT www.konkurcomputer.ir
+صفحه ۳
+زبان عمومی و تخصصی (کد ۱۲۷۷)
+Fortunately, there's an alternative: Internet Protocol version 6 (IPv6), which boosts the number of addresses up to 2128. This number is so large that there are no words to describe it, but by one estimate there would be more than 2000 addresses for every square meter on Earth. Besides providing more addresses, IPv6 offers greater security (for example, mandatory use of IPsec), and it has features that improve real-time applications. However, migrating the Internet to IPv6 is proving to be painfully slow. Originally, that was because it took a long time for computer scientists and engineers to hammer out the details. During that initial delay, a stopgap, called Network Address Translation (NAT), did such a good job of relieving the need for more IP addresses that it has become a permanent part of the IPv4 landscape. And it lets the administrators of the world's biggest networks continue to put off the dreary task of changing over to IPv6.
+10- What is an IP address according to the above passage?
+1) It's a unique number.
+3) It's a permanent number.
+2) It's a unique protocol. 4) All of the above.
+11- What is meant by Internet Protocol version 4 or the IPv4 in the above passage?
+1) It's a scheme that will explode shortly.
+2) It's a current scheme that runs the Internet.
+3) It's a scheme that will be reinforced by IPv6.
+4) It's an old Internet scheme that is succeeded by IPv6.
+puter.in
+12- Which of the following statements best describes what the above passage reveals?
+1) IPv4 is succeeded by IPv6.
+2) There's no need to replace IPv4 by IPv6.
+3) IP has a shortcoming that will soon be surmounted.
+4) IP may run out of IP addresses some time in the future.
+13- What is the main reason for the drops or stutters that at times we experience while connected to
+the telephony and the videoconferencing on the Internet?
+1) IPv4 is falling behind the advancements.
+2) IPv4 has little concern for security standards.
+3) IPv4 has little support for real-time applications. 4) All of the above.
+14- Which of the following is the principal reason for putting off the IPv6 so far?
+1) The existence of NAT or the Network Address Translation.
+2) Migrating from IPv4 to IPv6 is needless and dreary.
+3) The number of users is not as many.
+4) It takes a long time for computer engineers and scientists to figure out and design the details.
+Passage 4
+W
+If you're not listening to podcasts (personal on demand broadcasts), you're missing out on a great way to get free bite-size pieces - and sometimes full servings of news, information, and entertainment. Podcast is a media file that is distributed by subscription (paid or unpaid) over the Internet using syndication feeds for playback on mobile devices and personal computers. Podcasts are downloadable audio files that anyone with a microphone and an Internet connection can publish. While some podcasts, especially those produced by established radio stations, are intended for general- interest listeners, the secret sauce of podcasts is that you find 2 to 10 minute programs on whatever specialized interest takes your fancy. IT, digital photography, astronomy, intellectual property, flower arranging- it doesn't matter what, because someone, somewhere, is likely to have created a podcast for you. However, that also means there is a bewildering selection to choose from, and of wildly varying quality. What's worth listening to? There are a few suggestions.
+The easiest way to listen to these podcasts is to use Apple's iTunes media player. You can download Mac OS X and Windows versions of iTunes for free at http://www.apple.com/itunes. While iTunes functions best with Apple's ubiquitous iPod, it works just fine as a stand-alone application on your computer. With iTunes, one can search a huge podcast directory maintained by Apple. If one doesn't want to use iTunes, one can get podcasts directly from their creators' Web sites through most current browsers.
+
+
+
+--- OCR_page_5 ---
+
+Telegram Channel: @konkurcomputer
+صفحه ۴
+[WWW.KONKURCOMPUTER.IR]
+MSc-PhD Computer-IT www.konkurcomputer.ir
+15- What is meant by podcasting?
+1) Choosing the program you like.
+2) Broadcasting one's favorite programs.
+3) Downloading audio files upon one's inclination.
+4) Selecting a whole variety of programs for entertainment.
+16- The most accurate statement is that, for podcasting, one
+1) must use Apple's iTunes media player
+2) should download Mac OS X and Windows versions of iTunes 3) should search the huge podcast directory maintained by Apple 4) can get podcasts directly from the creator's website through browsers
+17- For podcasting, you need to have a(n) -----
+1) subscription, Internet connection
+3) Internet connection, syndication feed
+Passage 5
+------- and a(n).
+زبان عمومی و تخصصی (کد ۱۲۷۷)
+2) microphone, Internet connection 4) Internet connection, radio stations
+r.ir
+Researchers have been toiling for years to produce biometric devices to quickly and reliably indicate whether people are actually who they say they are, using traits unique to them. These traits include fingerprint patterns, the arrangement of tissue in the eye's iris, and the timbre of a person's voice.
+A new type of biometric identification device takes advantage of the fact that the network of vessels in each person's hand forms a pattern that can be distinguished from anyone else's. The leading manufacturers of these vascular pattern recognition devices, TechSphere, of Seoul, South Korea, and Japan's Fujitsu and Hitachi, have already sold tens of thousands of them in Asia and Europe.
+Businesses, schools, and apartment buildings are using vascular recognition for physical access control. Companies are also beginning to adopt the technology to manage access to their information technology infrastructures. Vein pattern recognition has been used to screen passengers at South Korea's Inchon International Airport and to control access to the tarmac of several Canadian airports. Vascular recognition already has won wide acceptance in banking, a high-profile use that seems destined to grow. So far, more than a dozen Japanese banks and credit unions have made hundreds of ATMs featuring vascular sensors available for everyday use. They have chosen these recognition systems in order to meet the standards for data protection in the country's Personal Information Protection Act, which was adopted in April 2005. Dozens of other financial institutions have also announced plans to introduce vein-reading ATMs over the next several years.
+W
+In the vascular recognition systems developed by Fujitsu and TechSphere, after inserting a banking card in a cash machine, the user is prompted to hold a hand near an infrared light source. (TechSphere's system illuminates at the back of the hand, while Fujitsu's scans the palm.) The light source is paired with a charge-coupled device similar to the one used in standard digital photography. As the near-infrared light passes through the body tissue, it is reflected by the hemoglobin in the blood. This reflected light picked up by the CCD reveals an image of the blood vessels. Hitachi's system works on the same premise, but instead of focusing on the blood vessels in the hand, it uses those in the index or middle finger. Among the reasons that vascular pattern sensing was chosen over fingerprint scanners was that users don't have to touch the sensors in order to conduct transactions - a concern in some Asian countries where hygiene is an exceptionally important cultural value. Within a second or two, the system filters the digitized image, creates a template that it can compare with the encrypted image template associated with the authorized user, and decides whether they match. The template data can be stored either directly on the chip in a smart card or in a central database. Many of the early adopters of the technology have opted for the smart card, because it allows customers to maintain possession of their digitized records and frees the service provider from having to maintain databases. Makers of vascular recognition systems say their advantages over fingerprint scanners will soon make them market leaders. Unlike fingerprints, vein patterns are not visible to the naked eye and copies aren't left on just about every surface a person touches. Because the data on a digital template is encrypted, a thief can't use it to re-create the digital image of the real credential holder's vascular pattern. If they manage to go onto someone's card and figure out how to get through the encryption, all they would get is a numerical version of the person's template which is absolutely useless.
+
+
+
+--- OCR_page_6 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+MSc-PhD Computer-IT www.konkurcomputer.ir
+صفحه ۵
+18- For what purpose are biometric devices used?
+1) Scanning.
+2) Encryption.
+زبان عمومی و تخصصی (کد ۱۲۷۷)
+3) Identification.
+4) Authorization. and
+but the
+19- The biometric devices used up to now mainly dealt with one discussed in the passage is concerned with
+1) iris scan, trait patterns, the vascular pattern
+2) fingerprint pattern, iris scan, the vascular pattern
+3) vascular recognition, iris scan, blood recognition
+4) unique traits, numerical recognition, hand recognition
+20- In which sector of the business life is the biometric device used the most?
+1) Airports.
+3) Apartment buildings.
+2) Schools.
+4) Financial institutions.
+21- What makes the biometric device discussed in the passage more reliable than the others?
+1) Vein patterns are not visible.
+2) The smart card is kept by the owner.
+3) The data on the digital template are numerically encrypted.
+4) The data can be either directly stored on the chip of a smart card or on a central database. 22- Which of the following statements reveals the supposition of the manufacturers of the biometric device?
+1) They will soon become the market leaders for the said devices.
+urce apter.ir
+2) Their device is more hygienic when compared to other similar devices.
+3) They will soon become the only one in the market for biometric devices.
+4) Their technology allows the customer to maintain possession of their digitized records and frees the service owner from keeping a database.
+Passage 6
+Finally, you'll be able to buy high-definition movies on disc -- and the devices that play them - at your local store. As observers had expected, HD DVD (the format backed by Toshiba and Microsoft) will arrive first, with players - the least expensive being Toshiba's $499 HD-A1- and movies expected for sale by late March.
+Before buying one of these players, though, you'd better check your TV's inputs. If you don't use a High Definition Content Protocol - enabled, HDMI connection, you may not get full, high-definition- resolution output from the player. HD DVD can't guarantee high-definition output over analog component connections, or even over non-HDCP digital connections. Ultimately the content creators -- the movie studios - control what you'll see. Industry insiders say that the studios don't plan to lower the resolution of images in their early titles, but that could change over time.
+W
+!3-
+24-
+What is the main idea in the above passage?
+1) Arrival of HD DVD players.
+3) Upgrading of HD DVD players.
+2) Creation of HD DVD players.
+4) Implementation of HD DVD players.
+Which of the following is a prerequisite for the TV in order to be able to run and display an HD DVD player?
+1) A digital component connection.
+2) A High Definition Content Protocol.
+3) A High Definition Resolution Output.
+4) That the movie studios don't plan to lower the resolution of images.
+According to the passage, the HD DVD player is expected to be in the market by
+25-
+1) mid-March
+3) the beginning of March
+2) the end of March
+4) the month of March

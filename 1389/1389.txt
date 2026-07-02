@@ -1,0 +1,183 @@
+
+--- OCR_page_2 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+عصر پنج شنبه ۸۸/۱۱/۲۹
+(1)
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان انگلیسی عمومی و تخصصی
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the correct choice on your answer sheet.
+Unfortunately the patient --------- many symptoms of heart disease.
+3) attributed
+They accused the President of -------- information from Congress. 1) surrendering
+3) terminating
+The President's power is severely by the Supreme Court. 1) circumscribed
+3) sophisticated
+4) propel
+4) exhibited
+4) abolishing
+1-
+The warm sun and enough water caused the plant to ----- 1) flourish 2) boost
+in a few days.
+3) proceed
+2-
+1) expressed
+2) conducted
+3-
+2) withholding
+4-
+2) penetrated
+5-
+1) Disposition
+2) Consensus
+6-
+1) conversely
+3)
+7-
+Her latest book,
+1) illuminated
+2) contended
+8-
+1) persuasion
+2) exposure
+3) pervasiveness
+9-
+------- refers to the fact of two or more things becoming one.
+3) Confluence
+You can add the fluid to the powder, or, --, the powder to the fluid.
+2) instantly
+Compromise
+4) intensely
+------ "An Introduction to Applied Physics," is out this week.
+The of a sense of hopelessness is evident in this novel.
+www.konkurcomputer.ir
+4) entitled
+4) impulse
+4) surplus
+4) sparse
+The president was -------- with admiration for the country's technological progress. 1) extensive
+10- Because of its
+1) unfastened
+3) excessive
+population, this is a good area for wildlife.
+3) concise
+Test
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet. There are obviously many theoretical motives for studying the history of science. (11) --- would study that history in order to throw light upon his own task and to increase his enjoyment of it. However, the people who study a subject for theoretical reasons are probably exceptional. Most students (12) ------ definite training for practical reasons, such as qualifying themselves for a trade or profession. (13) ------ from their angle, then, the study of the history of science will complete the training of scientific teachers, (14) well requires a kind of perspective that can be obtained only by historical inquiries. Furthermore, the study of the history of science will improve the qualifications of students for many parascientific positions having to deal directly or (15) ---- scientific pursuits, such as those of librarians, editors, curators of museums, and school or government administrators.
+11- 1) Men from science
+12- 1) submit themselves to
+3) are submitted for
+2) A man's science
+13- 1) That they look at itself 3) They look at it
+14- 1) as for teaching
+15- 1) to indirect with
+2) as if to teach 2) indirectly with
+3) A man of science 2) submit them for 4) are submitted to 2) Looking at it 4) When it is looked 3) since if teaching 3) to indirect in
+4) Scientific men
+4) since to teach 4) indirectly in
+
+
+
+--- OCR_page_3 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+عصر پنج شنبه ۸۸/۱۱/۲۹
+(۲)
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان انگلیسی عمومی و تخصصی)
+Part C. Reading Comprehension
+Directions: Read the following three passages and choose the best choice (1), (2), (3) or (4). Then mark it on your answer sheet.
+PASSAGE 1:
+The need for computing large amounts of military data in World War II led to the development of a large relay computer at Bell Telephone Laboratories. This computer, like smaller ones developed there by George R. Stibitz in the early 1940's, was made entirely from standard telephone and teletype components, such as relays, paper tape punches, and paper tape readers.
+In this computer, built in 1946, sequences of instructions were read from looped paper tapes. Most instructions took one to two seconds to perform. Twenty numbers of seven digits could be stored. This was the first system to have storage of numbers as a separate function, to provide loops and branches in programs, and to stress self-checking and unattended operation.
+Meanwhile, Aiken was building the Mark II computer; this large relay machine was completed in 1947. The IBM Corp, built a relay computer called the Selective Sequence Electronic Calculator in 1948. The machine mainly contained relays, but it also used some electronic circuits for arithmetic operations.
+onkurcomputer i
+The top speed of a relay computer was 10 additions per second. By the late 1940's, it was clear that the relay as a computer component had been made obsolete by the electronic circuit, which provided much higher operating speeds.
+16- The passage is mainly about
+1) early relay computers
+2) the differences between relay computers and electronic circuits 3) the uses of relay computers in World War II 4) computing military data
+The first relay computers were
+1) developed during world wars
+ww
+2) made by the staff at Bell Telephone Laboratories
+3) used to interconnect telephones in military bases
+4) made to serve military purposes
+18- The large relay computer at Bell Telephone Laboratiories
+1) could store up to seven numbers
+2) stored numbers in the same way as the earlier systems
+3) was too slow perform a number of instructions
+4) had built-in paper tape readers
+19- Where in the passage does the author mention the advantages of the large computer at Bell Telephone Laboratories?
+1) Lines 13-15
+2) Lines 7-8
+20- According to the passage, the electronic circuit
+1) substituted the relay as a computer component 3) was first developed by Aiken
+3) Lines 9-11
+4) Lines 2-4
+2) contained speedy relays
+4) was made long before the relay computers
+
+
+
+--- OCR_page_4 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+عصر پنج شنبه ۸۸/۱۱/۲۹
+(۳)
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان انگلیسی عمومی و تخصصی)
+PASSAGE 2:
+John von Neumann and the Eniac group conceived a machine, called Edvac, using mercury delay lines as memory. Several other machines based on its plans were finished before Edvac began operation in 1952.
+The first of these was the Electronic Delay Storage Automatic Calculator (Edsac); this machine was the first stored-program computer to be completed. It was built in 1949 by Mau- rice V. Wilkes at Cambridge University in England. The U. S. National Bureau of Standards finished its Standards Eastern Automatic Com- puter (Seac), also patterned on Edvac, in 1950. Seac was the first American stored-program computer.
+Meanwhile, Mauchly and Eckert had started their own company and had begun the design of the machine that was to become famous as the Univac I (Universal Automatic Computer): it was delivered to the U. S. Bureau of the Census in 1951. Univac was produced in a num- ber of copies, and it became the first commer- cially available large computer. In the next few years, about a dozen other delay-line computers were built, but no copies of these machines were produced.
+www.kankurcomputer.ir
+All these computers with delay-line memories had a number of common features. Their speed was limited by the memory delay time, usually several hundred microseconds. The arithmetic unit was usually small and entirely serial, work- ing on one bit at a time. Addition time was typically several hundred microseconds, mul- tiplication, performed by repeated addition, took a few milliseconds. Memory capacity was around 1,000 words. Most of these computers worked in the binary system, only Univac used a decimal representation. Most initially used punched paper tape as input, but Univac had an elaborate magnetic tape system.
+21- Why did the author write the passage? 1) To criticize the use of delay-line computers
+2) To propose ways of improving the functions of delay-line computers 3) To illustrate how a delay-line computer works
+4) To present a history of delay-line computers
+22- According to the passage, Mauchly and Eckert's Univac 1) was produced and sold in large quantities
+2) competed against other commercially available delay - line computers 3) was licenced by the U.S. Bureau of the Census 4) was designed based on the design of Edvac 23- The second paragraph is mainly about 1) the first stored-program computers 2) computers which were designed in the U.S. 3) machines which were patterned after Edvac 4) large computer manufacturers
+24- The writer's attitude toward Univac could be described as
+1) scientific
+2) favorable
+3) argumentative
+4) impersonal
+25- All of the following are among the common features of delay-line computers EXCEPT
+1) serial operation
+2) choice between binary and decimal number representations
+3) small arithmetic unit
+4) limited speed
+
+
+
+--- OCR_page_5 ---
+
+Telegram Channel: @konkurcomputer
+[WWW.KONKURCOMPUTER.IR]
+عصر پنج شنبه ۸۸/۱۱/۲۹
+(۴)
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان انگلیسی عمومی و تخصصی
+PASSAGE 3:
+For information proc- essing, the advantage of full text in magnetic-tape form lies in the potential of language data process- ing. An example is the preparation of a concor- dance-an alphabetic list of significant words from a text, showing the context within which each ap- pears. Computer-produced examples include con- cordances of the Dead Sea Scrolls and the works of St. Thomas Aquinas. This technique has been used in reference systems to produce indexes to books and, from key words in titles, to articles. Computation of the statistics of texts-word frequencies, lengths, distributions, and associations - has application in reference systems. H. P. Luhn suggested that the words appearing most frequent- ly in a text could be automatically assigned as subject terms. Word associations have been used to construct thesauri and classifications such as those used in libraries.
+Deeper analysis of text requires an ability for the computer to handle syntax and semantics. Experimental programs include rules for determin- ing the syntax of sentences. Each program derives the structure of a sentence from the syntactic classes for the words in it, as specified in a dic tionary stored in the computer. Comparable tech- niques have been used as aids to humanistic schol- arship. For example, a computer analysis of style, based on patterns of word usage, was used to sub- stantiate assignments of authorship in the Feder- alist papers.
+www.konkurcomputer.ir
+The most ambitious application of language data processing has been machine translation from one language to another, one of the tasks first suggested by Bush. The results to date are far from a complete mechanization of high-quality translation, but they may produce translations ade- as aids.
+26- The passage is mainly about language data processing
+2) how computers handle syntax and semantics 3) computerization of text analysis 4) the use of computers in libraries
+27- The word "each" in line 6 refers to
+1) list
+2) context
+3) text
+4) word
+28- According to the passage, experimental programs 1) contain syntactic and semantic rules
+2) include syntactic and semantic classifications of words 3) enable the computer to determine the syntax of sentences 4) are used to install dictionaries in the computer
+29- What is the writer's attitude toward machine translation?
+2) humorous
+3) unfavorable
+1) disbelieving 30- Which of the following best describes the organization of the passage?
+4) depressing
+1) A description of language data processing is followed by a list of examples. 2) Persuasive opinions on the use of computer in language data processing are given. 3) Several applications of language data processing are described and example are given. 4) Various applications of language data processing are compared and contrasted.

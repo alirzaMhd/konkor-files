@@ -1,0 +1,201 @@
+
+--- OCR_page_2 ---
+
+@konkurcomputer [www.konkurcomputer.ir]
+صفحه ۲
+زبان عمومی و تخصصی C ۴۰۵
+عصر پنجشنبه ۸۹/۱۱/۲۸
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the correct choice on your answer sheet.
+1- These ideas are not quite new; they
+:
+1) put over 2- The story ---
+1 në bër-go han pan bir qân dân gian
+1) depicts
+2) depart for the lives of people in the last century. 2) settles 3) persists
+ancient philosophers. 3) give rise to
+4) descend from
+4) contends
+4) submitting targets through clouds
+4) dominate
+3- Strong storms have been ---------- our efforts to find flood survivors.
+2) hampering
+3) demarcating
+1) surmising 4- The military in most countries uses radar satellites to
+and at night.
+1) track
+2) disallow
+5- The association works to promote the members of the community.
+1) status
+2) posture
+3) overthrow
+300 dpi tak se me q
+of retired people as active and useful
+3) disclosure
+6- At the end of the article, the author bridges all the different
+together.
+1) remnants
+2) strands
+2) advent
+7- Life in Britain was transformed by the
+1) disposition 8- There is evidence that a(n) ------ --to cancer runs in some families. 1) dilemma
+2) incident
+3) predisposition
+4) standpoint --- of the argument
+conversions of the steam engine. 3) undertaking
+4) dealings
+4) expenditure
+4) prospect
+of the risks.
+1) devoid 2) inevitable 10- Computers operate using
+1) dual
+2) scant
+3) unaccustomed numbers (the values 0 and 1). 3) trivial
+4) heedless
+4) binary
+9- The journalists insisted on getting to the front line of the battle,
+PART B: Cloze Test
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+The Sahara is the great desert of northern Africa and the largest in the world. (11) the Atlantic Ocean on the west to the Red Sea on the east, and from the Atlas Mountains and Mediterranean Sea on the north (12) ---- the savannas of the Sudan region on the south. (13) - ------ more than 3 million square miles (8 million sq km), the Sahara is divided among many countries. Parts of the desert are known by separate names, such as the Eastern or Arabian Desert between the Nile River and the Red Sea, and the Libyan Desert along the border between Egypt and Libya. The Sahara has (14) of 2 million excluding the densely settled Nile Valley, (15) apart from the surrounding desert. The principal language of the people of the Sahara is Arabic and their religion is Islam.
+
+
+
+--- OCR_page_3 ---
+
+زبان عمومی و تخصصی C ۴۰۵
+@konkurcomputer [www.konkurcomputer.ir]
+عصر پنجشنبه ۸۹/۱۱/۲۸
+صفحه ۳
+11-1) It extends from
+3) There extends between
+12-1) in
+3) to
+13- 1) To be an area of
+3) Across an area with
+14- 1) a population estimating
+3) an estimated population
+15-1) that it considers
+3) which it considers
+PART C: Reading Comprehension
+2) It extends between
+4) There extends from
+2) on
+4) at
+2) With an area of
+4) To be an area with 2) a population estimated 4) estimated a population 2) that is considered 4) which is considered
+er.in
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+Passage 1:
+The biggest safety threat facing airlines today may not be a terrorist with a gun, but the man with the portable computer in business class. In the last 15 years, pilots have reported well over 100 incidents that could have been caused by electromagnetic interference. The source of this interference remains unconfirmed, but increasingly, experts are pointing the blame at portable electronic devices such as portable computers, radio and cassette players, and mobile telephones.
+RTCA, an organization which advises the aviation industry, has recommended that all airlines ban such devices from being used during "critical" stages of flight, particularly takeoff and landing. Some experts have gone further, calling for a total ban during the whole flight. Currently, rules on using these services are left up to individual airlines, and although some airlines prohibit passengers from using such equipment during takeoff and landing, most are reluctant to enforce a total ban, given that many passengers want to work during flights. The difficulty is predicting how electromagnetic fields might affect an aircraft's computers. Experts know that portable devices emit radiation which affects those wavelengths which airplanes use for navigation and communication. But, because they have not been able to reproduce these effects in a laboratory, they have no way of knowing whether the interference might be dangerous or not.
+The fact that aircraft may be vulnerable to interference raises the risk that terrorists may use radio systems in order to damage navigation equipment. As worrying though, is the passenger who can't hear the instructions to turn off his radio because the music's too loud.
+16- The passage is mainly about
+1) a new regulation for all airlines. 2) the defects of electronic devices.
+3) effective safety measures for air travel.
+4) a possible cause of aircraft crashes.
+
+
+
+--- OCR_page_4 ---
+
+زبان عمومی و تخصصی C ۴۰۵
+@konkurcomputer [www.konkurcomputer.ir]
+عصر پنجشنبه ۸۹/۱۱/۲۸
+صفحه ۴
+:
+17- What is said about the over 100 aircraft incidents in the past 15 years? 1) They may have taken place during takeoff and landing.
+2) They may have been caused by the damage to the radio systems.
+3) They were proved to have been caused by the passengers' portable computers. 4) They were suspected to have resulted from electromagnetic interference. 18- Few airlines want to impose a total ban on their passengers using electronic devices because 1) they don't believe there is such a danger as radio interference.
+2) they have other less-intrusive safety measures to fall back on.
+r.ir
+3) most passengers refuse to take a plane which bans the use of radio and cassette playe 4) the harmful effect of electromagnetic interference is yet to be proved.
+19- Why is it difficult to predict the possible effects of electromagnetic fields on an airplane's computers?
+1) Because experts lack adequate equipment to do such research.
+2) Because it is extremely dangerous to conduct such research on an airplane.
+3) Because research scientists have not been able to produce the same effects in labs.
+4) Because it remains a mystery what wavelengths are liable to be interfered with.
+20- It can be inferred from the passage that the author
+1) has overestimated the danger of electromagnetic interference.
+2) has over looked the importance of passenger satis faction.
+3) regards it as unreasonable to exercise a total ban on using portable electronic devices during flights.
+4) is in favor of prohibiting passengers' use of electronic devices completely.
+Passage 2:
+The history of the computer in the twentieth century is one of dramatic adaptation and expansion. The computer had modest beginnings in areas where it was used as a specialist tool. The first electronic computer was built in the 1930's and was solely for the use of undergraduate students in lowa State University to handle mathematical computations in nuclear physics. During World War II, computers were developed in order to wage counter-espionage and break codes used by the enemy. In the post-war years the scope of computers was expanded to include the military industrial complex and academia. Obviously people needed to communicate around these institutions and so there was a need for early network tools. In the 1960's, an early version of the Internet, ARPANET, was used in computer science and engineering projects. However, only 10 years later computers were starting to change our life style, the way we do business and many other things, and by the late 1980's networks were expanding to embrace sections of the general public. The Internet was born. What are the effects of this dramatic change in the use of computers in everyday life? In this paper, we will restrict the focus to changes in learning style of US students due to computers. Are the effects all positive-or are there drawbacks as well?
+W
+How prevalent is the use of computers in schools? As recently as the early 1980's, only 20% of secondary science teachers in the USA were using microcomputers. However, since then high schools in the US have computerized rapidly. By 1987, schools had acquired about 1.5 million computers with 95% of public schools having at least one computer. Computers can be used as teaching aids both in schools and in homes. In schools, for example, teachers can plug a computer into an especially equipped overhead projector to bring texts, graphics, sound, and videos into a classroom. By these multimedia computer animations, teachers can more readily attract and retain students' attention. Ann (1994) concludes that computer-aided teaching can attract and motivate students who were dropping out when more traditional methods were being used.
+....
+:.
+
+
+
+--- OCR_page_5 ---
+
+@konkurcomputer [www.konkurcomputer.ir]
+:
+صفحه ۵
+عصر پنجشنبه ۸۹/۱۱/۲۸
+زبان عمومی و تخصصی C ۴۰۵
+Computer animation can also speed up the teaching process and make difficult-to-explain ideas straightforward. For instance, a curved plane in three-dimensional space may take a teacher several minutes to explain or draw by hand. But on a computer, it requires only a few keystrokes or mouse-clicks in order to provide a visual representation. Another example is visualization by computer software. For example, the relative vibration and stretch of atoms in a molecule at different temperatures can be simulated and visualized by computer software, making this abstract microscopic behavior easier to understand. This means that teachers can spend more time answering students' questions and catering for other needs. Consequently, computer software can shorten the learning process by illustrating real-word applications of abstract theories.
+21- The main point of paragraph 1 is to:
+1) outline the main causes of computerization
+2) give the author's viewpoint on computerization 3) outline the main consequences of computerization
+4) give background information on computerization
+Compute
+22- In paragraph 1 “solely” is closest in meaning to which of the following:
+1) partly
+2) entirely
+3) justifiably
+23- In paragraph 1 "restrict" is closest in meaning to:
+1) limit
+2) narrow
+24- The main point of paragraph 3 1s to describe:
+1) the potential of networks
+2) the potential of computer storage
+3) the quantitative progress in the use of computers 4) the potential of computer simulation
+25- In paragraph 3 "simulated” is closest in meaning to:
+1) replaced
+2) repeated
+4) seriously
+4) restore
+3) reproduced
+4) simplified
+Mama. ' .'
+Passage 3:
+Do the names MySpace, Facebook, Orkut, etc. ring a bell? They probably do, because they are some of the most popular sites on the Internet today. These sites are all called "social networking" sites because they help people meet and discuss things online. Each of these social networking sites has its own strengths: MySpace is especially popular among teenagers, Facebook is popular with college-age people, Orkut is especially loved in Brazil, and CyWorld is the site to visit in South Korea. The common thread between all of these social networks is that they provide a place for people to interact, rather than a place to go to read or listen to “content”.
+Social networks are considered to be Web 2.0. What does this mean? To understand this, it's important to understand what the original Web did (often called Web 1.0). Back in the nineties, the Internet - or Web - was a place to go to read articles, listen to music, get information, etc. Most people didn't contribute to the sites. They just "browsed” the sites and took advantage of the information or resources provided. Of course, some people did create their own sites. However, creating a site was difficult. You needed to know basic HTML coding (the original language the Internet uses to "code" pages). It certainly wasn't something most people wanted to do as it could take hours to get a basic page just right. Things began to get easier when blogs (from Web log) were introduced. With blogs, many more people began writing "posts” as well as commenting on other people's blogs.
+n
+:.::....
+
+
+
+--- OCR_page_6 ---
+
+@konkurcomputer [www.konkurcomputer.ir]
+صفحه ۶
+عصر پنجشنبه ۸۹/۱۱/۲۸
+زبان عمومی و تخصصی C ۴۰۵
+In 2003, a site named MySpace took the Internet by storm. It was trying to mimic the most popular features of Friendster, the first social networking site. It quickly became popular among young users, and the rest is history. Soon everyone was trying to develop a social networking site. The sites didn't provide "content" to people; they helped people create, communicate, and share what they loved, including music, images, and videos. They key to the success of these sites is that they provide a platform on which users create the content. This is very different from the beginning of the Internet which focused on providing “content” for people to enjoy.
+Relying on users to create content is the key to the success of Web 2.0 companies. Besides the social networking sites discussed here, other huge success stories include: Wikipedia, Digg.com, and the latest success - Twitter. All of these companies rely on the desire of users to communicate with each other, thereby creating the "content" that others want to
+consume.
+26- Which phrase best describes what people do at social networking sites?
+1) They code pages in HTML.
+3) They gain access to classified information. 27- What was the original web mainly used for?
+1) Browsing content
+3) Creating and sending e-mail messages
+2) They interact with other people.
+4) They browse articles and other content.
+2) Creating pages in HTML 4) Interacting with other people
+28- Which is the best description of web 2.0 sites? 1) They are content-driven sites.
+3) They are faster to browse than before.
+29- What do web 2.0 sites rely on?
+1) Users creating content
+3) Articles written by professional journalists 30- What is most important for these new sites? 1) Users' desire to learn coding
+2) Users' desire to acquire technical skills
+2) They are like blogs, but better. 4) They are platforms for interaction.
+2) Fast internet connections 4) Secure communication paths
+3) Users' desire to read interesting content written by professionals 4) Users' desire to communicate with each other
+www.k
+:
+E
+:
+:

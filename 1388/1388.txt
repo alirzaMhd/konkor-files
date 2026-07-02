@@ -1,0 +1,116 @@
+
+--- OCR_page_3 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۲
+MSc-PhD Computer-IT www.konkurcomputer.ir
+PART C: Reading Comprehension
+زبان تخصصی (کد ۱۲۷۷)
+Directions: Read the following three passages and choose the best choice (1), (2), (3), or (4). Then mark it on your answer sheet.
+Passage1:
+Systems used in critical applications such as health, commerce, transportation, utilities, and national security must be highly reliable. Ubiquitous use of computing systems and other electronic systems in these critical areas requires that computing systems have high reliability. High reliability is achieved by designing the systems to be fault-tolerant. Even though the high reliability requirements of computing systems gave the original impetus to the study of the design of fault tolerant systems, trends in manufacturing of VLSI circuits and systems are also requiring the use of fault-tolerant design methods to achieve high yields from manufacturing plants. This is due to the fact that with reduced feature sizes of VLSI circuit designs, and shortcomings of lithographic techniques used in fabrication, the characteristics of the manufactured devices are becoming unpredictable. Additionally, small sizes of devices make them susceptible to radiation induced failures causing run time errors. Thus it may be necessary to use fault tolerance techniques even in systems that are used in non-critical applications such as consumer electronics.
+onk
+ir
+16- What was the primary motive that led to the advent of fault tolerant systems?
+1) The high reliability requirements of computing systems
+2) The need to achieve high yields from manufacturing plants
+3) The unpredictability of characteristics of the manufactured devices
+4) Ubiquitous use of computing systems and other electronic systems in trivial applications
+17- Which of the following phrases is meant by the passage?
+1) The manufacturers finally give in to the demands for fault tolerant systems.
+W
+Considerable dependability is a must in digital systems with critical applications.
+3) Manufacturers resist introducing fault tolerance in the implementation of VLSI circuits
+4) It is yet unpredictable if the manufacturers will yield to implement fault tolerant reduced sized VLSI circuits.
+18- Which one of the following statements is false?
+1) The reason for devices to be susceptible to radiation is their small sizes.
+2) The use of fault-tolerent design methods will also result in achieving high yields from manufacturing plants.
+3) One of the methods to achieve high reliability is to design the systems to be fault-tolerent.
+4) The reason for computing systems to have high reliability is their use in critical areas such as health, commerce, national security, etc.
+
+
+
+--- OCR_page_4 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۳
+MSc-PhD Computer-IT www.konkurcomputer.ir
+W
+Passage 2:
+زبان تخصصی (کد ۱۲۷۷)
+At times, the CPU is referred to as the 'brain' of the computer and this is not without justification. CPU stands for Central Processing Unit and it is argued amongst many people weather or not this is the most important part of the computer, therefore the one you should dedicate the lion's share of your budget to. Regardless of whether or not it is the most important part of the PC,it is still one of the most significant pieces of hardware inside the case. According to Joe Kraynak (Author of Using and Upgrading PC's) 'You can apply your savings on the processor to more memory or a faster hard drive.' Basically speaking that means if you buy a slightly slower processor then you can make the rest of the system better, my personal opinion would probably be to agree with this statement, however he goes on to add 'because most hardware manufacturers and software developers design their products for Intel processors, sticking with a Pentium processor minimizes compatibility issues.' Intel Pentium Processors are commonly the most expensive CPU's.
+The CPU is, like the computer Motherboard, a very important part of any computer system because the computer will not move faster than what the speed of the processor, however that is not to say that by merely buying a new CPU, you may not able to speed up the computer. This is a common mistake made by users who don't see the computer as a 'whole' and rather look at it as its different components. The CPU works in direct harmony (in theory) with all other parts of the system .One last thing I have to add about the CPU is this, if the motherboard has a slow BUS speed then the impact of a new processor will be greatly reduced.
+konkurcomputer in
+19- The best topic for this passage would be: 1) Intel Pentium CPU processors
+2) The role of CPU in a computer system
+3) Impact of Motherboard on CPU performances
+4) CPU and Motherboard: Two Important parts of a computer systems
+20- According to Mr. Kraynak:
+1) You can apply your savings on the processor to increase the memory or a slightly slower hard drive.
+2) You can apply your saving on the processor to buy a cheaper memory or a faster hard drive to make the rest of the system better.
+3) You should save money on buying a less expensive brands and slightly slower processors to make the rest of the system better.
+4) You should save money on buying a slightly slower processor to make the rest of the system better, however, you should buy the more expensive processors made Intel.
+21- Which one of the following statements is false?
+1) Both CPU and the Motherboard are very significant in any computer system.
+2) The main reason to buy a Pentium processor is to reduce the compatibility related problems.
+3) A new CPU would speed up the computer, however one should avoid buying an expensive one.
+4) According to the author, one should see the computer as a complete package rather than different components.
+22- What does the statement, "the one you should dedicate the lion's share of your budget to",
+means:
+1) You should dedicate your budget to buy the shares of a company named "lion".
+2) You should allocate most of your budget to spend on the CPU for your new computer.
+3) CPU is as strong as a lion in a computer system and you should buy the most advanced one for your computer.
+4) The impact of CPU in a computer system is like the impact of a lion in a jungle, so you should allocate most of your budget to buy the most advanced one.
+23- What does the author mean by: "the CPU works in direct harmony (in theory) with all other parts of the system"?
+1) CPU, in theory, acts in agreement with all other parts of the system
+2) CPU, in theory, works according to the parts of the system.
+3) CPU, in theory, has the same frequency as all other parts of the system.
+4) CPU, in theory, has the direct frequency impact on all the parts of the system.
+
+
+
+--- OCR_page_5 ---
+
+Telegram Channel: @konkurcomputer
+صفحه ۴
+[WWW.KONKURCOMPUTER.IR]
+24- What would be the impact of a slow BUS? 1) It has a great impact on the CPU performance. 2) Its impact on the CPU is greatly reduced.
+3) Its impact on the Motherboard is greatly reduced.
+4) It has a great impact on both CPU and the Motherboard performances. Passage 3:
+MSc-PhD Computer-IT www.konkurcomputer.ir
+زبان تخصصی (کد ۱۲۷۷)
+Credit cards have changed the way in which we handle our money. Today, your cash savings can be simply a series of numbers stored in the bank's computer. In the United States, over thirty billion checks are used each year to transfer approximately eight trillion dollars from one group or individual to another. The cost of processing these checks is more than five billion dollars a year for the bank fees alone. Because of this, a new system has been developed using a computer network to replace much of the check and cash handling. This network allows funds to be transferred directly from one bank account to another via the electronic funds transfer system (EFTS). Some people call this development the "cashless society". It simply means that it will be a society with fewer checks and less cash being used to buy things. Checks take about two to five days to process. The EFTS system allows funds to process within seconds using computers. The system also allows quick reporting on consumer spending habits for Governments making connected policies.
+It is also much easier and safer for the individual to carry a card around instead of large amounts of cash. The EFTS purchase is easy. Imagine that you go shopping at the mall and need to buy groceries from the supermarket and clothes from a boutique. You go into the supermarket, select your items and take them to the checkout person who would scan the goods through with an electric scanner. Each item is automatically identified by the barcode and the cost will come up on the register. You decide to pay by EFTS and give the shop assistant your bank card, who then swipes it through a terminal. You enter the account you are transferring the funds from (savings, check or credit), and enter your personal identification number (PIN) into the EFTS terminal. The bank code on the card dials your account number checks if you have enough money and then transfers those funds into the supermarket's account. The shop you are buying your clothes from doesn't have EFTS terminals, so you decide to take extra one hundred dollars cash out of your account. You may just do that using the same system. There are many advantages of EFTS. It reduces the amount of cash people must carry- possibly avoiding robbery and loss. It also reduces the amount of cash that shops must keep in their registers. All this would not be possible without computers.
+www.kos
+25- The cost of processing over thirty billion checks is:
+1) At most five billion dollars a year.
+3) Exactly five billion dollars a year.
+2) About five billion dollars a year. 4) At least five billion dollars a year.
+26- According to the article, what was the reason behind developing EFTS?
+1) High cost of processing bank checks
+2) Let credit cards handle people's money
+3) To make the "cashless society" possible
+4) To reduce the processing time of the bank checks
+27- What does the "cashless society" means?
+1) The society without using cash in all their transactions
+2) The society without using cash but using checks for market transaction 3) The society with fewer checks and less cash being transferred to the banks 4) The society with fewer checks and less cash being used for market transaction 28- Which of the followings are not among the advantages of using EFTS? 1) Reduces the amount of money needed for the prosessing of bank checks. 2) Reduces the amount of time needed to process the checks, otherwise. 3) Reduces the profit of shops due to the reduction of cash in their registers.
+4) Reduces the amount of cash people must carry, avoiding possible robbery and loss.
+
+
+
+--- OCR_page_6 ---
+
+Telegram Channel: @konkurcomputer [WWW.KONKURCOMPUTER.IR]
+صفحه ۵
+MSc-PhD Computer-IT www.konkurcomputer.ir
+29- How supermarkets identify the price of items at the check out?
+زبان تخصصی (کد ۱۲۷۷)
+1) They identify the price of goods by standing checkout persons who check on price tags. 2) They identify the prices of goods by allowing the checkout persons asking the customer for the prices.
+3) They allow the checkout persons to attach a barcodes on the items to be used for automatic identification of the prices.
+4) They scan items using an electric scanner which allows the automatic identification of the price by the barcode.
+30- Which one of the following statements is true?
+1) EFTS system allows funds to process within seconds using computer, however, it takes two to five days to transfer the money to its destination.
+fir
+2) EFTS system allows funds to process within seconds, using computers. However, It does not allow quick reporting on consumer spending habits for Governments making connected policies. 3) It is still possible to use EFTS to buy clothes from shops that don't have EFTS terminals. All the customer has to do is to ask another store with terminals to withdraw money from the customers bank account.
+4) It is still possible to use EFTS to buy clothes from shops that don't have EFTS terminals. However, it does not allow reporting on consumer spending habits for Governments making connected policies.
+www.konkurco

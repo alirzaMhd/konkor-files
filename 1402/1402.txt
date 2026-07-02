@@ -1,0 +1,227 @@
+
+--- OCR_page_2 ---
+
+مهندسی کامپیوتر (کد ۱۲۷۷)
+@@@ 934C @@@
+صفحه ۲
+داوطلب گرامی، عدم درج مشخصات و امضا در مندرجات جدول زیر به منزله عدم حضور شما در جلسه آزمون است.
+اینجانب
+با شماره داوطلبی
+6
+با آگاهی کامل یکسان بودن شماره صندلی خود با
+شماره داوطلبی مندرج در بالای کارت ورود به جلسه بالای پاسخنامه و دفترچه سؤالات نوع و کد کنترل درج شده بر روی جلد دفترچه سؤالات و پایین پاسخ نامه ام را تأیید مینمایم.
+زبان عمومی و تخصصی (انگلیسی):
+امضا
+1) projections
+3-
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the answer on your answer sheet.
+1-
+1) Take
+2-
+eye contact with your audience while giving your presentation.
+2) Insure
+3) Direct
+If ---------- hold true, future global population growth will be heavily concentrated in Latin America, Africa, and South Asia.
+2) inclinations
+Warning: Anyone caught stealing from these premises will be
+4) Make
+3) interventions
+4) realizations
+1) exonerated
+2) intensified
+3) prosecuted
+4) legitimized
+4-
+The manager's inflammatory comments are just He should think before he opens his mouth next time.
+an already difficult situation.
+1) challenging
+2) exacerbating
+3) dispelling
+4) affirming
+5-
+The internet seems to have almost
+1) captivated
+2) superseded
+3) allocated
+6-
+The woman is known as an
+every mode of communication ever invented!
+4) commenced woman because she gives away millions of dollars
+every year to various charities.
+1) economical
+2) aesthetic
+3) unforeseen
+7-
+Jen takes medicine at the first sight of a/an taking medicine even when she's really sick.
+4) altruistic headache; Lin, by contrast, resists
+1) incipient
+2) skeptical
+3) ambiguous
+4) credible
+PART B: Cloze Test
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+Teachers play various roles in a typical classroom, but surely one of the most important (8) classroom manager. Effective teaching and learning cannot take If students are disorderly and disrespectful, and no apparent rules and procedures guide behavior, chaos becomes the norm. In these situations, both
+place in (9)
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+@@@
+934C @@@
+مهندسی کامپیوتر (کد ۱۲۷۷)
+teachers and students (10)
+likely learn much less than they should.
+Teachers struggle to teach, and students most
+8-
+1) being
+2) of those are
+3) is that of
+4) ever to be is
+9-
+1) a classroom is poorly managed
+3) a poorly managed classroom
+10- 1) suffer
+3) to suffer
+2) a managed classroom poorly 4) managing poorly a classroom 2) they are suffered 4) suffering
+PART C: Reading Comprehension
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+A computer engineer can design a software system to detect context-independent misspellings and check the morphological consistency of words in a language such as Persian and English. A computational lexicon is among the most important resources needed to design such a system. The system assists a user by offering a set of candidate corrections that are close to the incorrect word. The software system isolates words in the text using the blank space between two consecutive words. Then, it evaluates the orthographical and morphological correctness of the words by means of the lexicon. If the system can find the exact word in the lexicon, it confirms the orthography and morphology of the word. Hence, increasing the number of words in the lexicon improves the system's performance in terms of accuracy.
+Obviously, all derivatives of a word in the language are expected to be in the lexicon. This point would cause the size/volume of the lexicon to be dramatically large. To reduce the size of a lexicon, the stem within the lexicon replaces the whole set of words, which can be extracted from the same stem. In order to obtain all of the derivative words from a stem existing in the lexicon, the morphological information for each of the stem words should be there. Hence, a code is inserted in front of each word containing information regarding its grammatical characteristics.
+11- Based on the passage, which one is NOT true?
+1) An incorrect word is replaced by a set of correct words which are close to the incorrect one.
+2) Once a word is found in the lexicon, it indicates that the word is correct.
+3) There is no way to find concatenated words using the lexicon.
+4) Concatenated words cannot be recognized by the software.
+12- The size of the lexicon
+1) can be controlled via replacing word derivatives with the stem 2) is controlled by word derivatives with the same stem
+3) cannot be controlled as it includes plenty of words
+4) is controlled by word derivatives
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+@@@ 934C @@@
+مهندسی کامپیوتر (کد ۱۲۷۷)
+13- It's stated in the passage that
+1) the lexicon has more impact on the accuracy of the system than words
+2) words have more impact on the accuracy of the system than the lexicon
+3) increasing the number of words in the lexicon improves the accuracy of the system 4) accuracy for the performance of the system can be improved via replacing word derivatives with the stem
+14- According to the passage, which sentence is True?
+15-
+1) Grammatical characteristics of a word can be used to provide the morphology of code inserted in front of each word.
+2) The morphological information for each of the stem words can help to reduce the size of lexicon.
+3) All derivatives of a word in the language are placed in the lexicon.
+4) A word is kept in the lexicon along with its associated code.
+Which of the following, based on the information given in the passage, is correct about a context-independent misspellings detecting system?
+1) A computational lexicon is the most important resource for designing such a system. 2) A computational lexicon is a required resource for designing such a system.
+3) A computational lexicon is needed to design the most important resources in such a system.
+4) The most important resources are needed to design a computational lexicon in such a system.
+PASSAGE 2:
+A CAPTCHA prevents bots from filling out and submitting a public form on a website. A common type of CAPTCHA requires the user to type letters and/or digits from a distorted image that appears on the screen. CAPTCHAS are used in attempts to prevent automated software from performing actions, which degrade the service quality of a given system, whether due to abuse or resource expenditure. The process usually involves a computer asking a user to complete a simple test which the computer is able to grade. These tests are designed to be easy for a computer to generate but difficult for a computer to solve, but again easy for a human being.
+Since thousands of hours are spent daily solving CAPTCHAS, it can be used as a new technique to promote company products or websites. In CAPTCHA advertising, users typically type in brand messages instead of distorted text. In today's technology, benefits of CAPTCHAS are twofold: website security and advertising.
+16- Following the passage, which one is NOT true?
+17-
+1) CAPTCHAS are used to protect a given system against bots.
+2) CAPTCHAs are used to improve website security.
+3) CAPTCHAs require thousands of hours to be resolved.
+4) CAPTCHAS are used to improve the service quality of a given system.
+All of the following, according to the passage, are true EXCEPT a computer can easily
+1) generate a challenge to encourage human users of websites
+2) verify human users via a CAPTCHA
+3) generate a CAPTCHA
+4) grade a CAPTCHA
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+@@@ 934C @@@
+مهندسی کامپیوتر (کد ۱۲۷۷)
+18- Which sentence, according to the passage, is incorrect?
+1) A common type of CAPTCHA asks the user to type letters with distorted images on
+the screen.
+2) CAPTCHAs are used to differentiate between human users and bots.
+3) CAPTCHA can promote company products through advertising.
+4) CAPTCHAS are easy for human beings to answer.
+19- Based on the passage,
+1) benefits of CAPTCHAS have been doubled in today's technology.
+2) CAPTCHAs usually ask the user to answer a simple question.
+3) thousands of users employ CAPTCHAS to promote company products daily.
+4) bots reduce the quality of service of a given system by abusing or consuming resources. 20- It's stated in the passage that CAPTCHAS
+1) might be simply designed, but it may not be resolved easily
+2) display a message on the screen for users to follow
+3) degrade the service quality of software systems 4) can get the users' attention to company products
+PASSAGE 3:
+Artificial intelligence is based around the idea that human intelligence can be defined in such exact terms that a machine can mimic it. The goals of artificial intelligence include learning, reasoning and perception, and machines are wired using a cross disciplinary approach based in mathematics, computer science, linguistics, psychology and more.
+As technology advances, previous benchmarks that defined artificial intelligence become outdated. For example, machines that calculate basic functions or recognize text through methods such as optimal character recognition are no longer said to have artificial intelligence, since this function is now taken for granted as an inherent computer function.
+Some examples of machines with artificial intelligence include computers that play chess, which have been around for years, and self-driving cars, which are a relatively new development. Each of these machines must weigh the consequences of any action they take, as each action will impact the end result. In chess, this end result is winning the game. For self-driving cars, the computer system must take into account all external data and compute it to act in a way that prevents collision.
+21- The word "it" in paragraph 1 refers to
+1) artificial intelligence 3) machine
+2) human intelligence 4) idea
+22- Why is "psychology" mentioned in paragraph 1?
+1) To name one of the disciplines among others that are used in building machines with artificial intelligence.
+2) To point out that it is not the only discipline on which artificial intelligence is based.
+3) To show how it is related to other disciplines such as mathematics and linguistics.
+4) To state that artificial intellignece is also applied to this field.
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+@@@ 934C @@@
+مهندسی کامپیوتر (کد ۱۲۷۷)
+23- It is implied in the passage that methods like optimal character recognition 1) are no longer used in modern machines
+2) used to be taken for granted in the past
+3) used to be considered as a yardstick for defining artificial intelligence 4) are utilizing artificial intelligence on an unprecedented scale
+24- The word “inherent” in paragraph 2 is closest in meaning to --------
+1) major
+2) intentional
+3) insignificant
+4) fundamental
+25- According to the passage, an instance of a relatively old machine considered to have
+artificial intelligence is a
+1) calculator
+3) computer translator
+2) self-driving car
+4) chess-playing computer
+ریاضیات (ریاضی عمومی (۱و۲)، آمار و احتمال مهندسی، ریاضیات گسسته)
+۲۶ به ازای چه تعداد عدد طبیعی ۳۵۰۰ ، تساوی sin(nd) + icos(n0) = (sin 0 + icos، برقرار است؟
+lim ، کدام است؟
+کدام است؟ کدام ال
+n00
+۸۷۴ (۱
+۸۷۵ ۲
+۱۷۴۹ ۳
+۱۷۵۰ ۴
+(n!)n
+۲۷- مقدار
+(1)
+(۲
+e (۳
+e
+(۴
+x2
+1
+1 x + x
+۲۸ مقدار dx
+In(†√√√) ()
+In, (۲
+۵
+Π
+tan-(۲) (۳
+Π
+۲
+.- tan (۲) + In (۴
+x+z که موازی صفحهٔ ۴ = x - ۲ + ۳z باشد، کدام است؟ ۲۹- معادله صفحهٔ مماس بر رویهٔ xy + yz + xz =
+x - ۲y + ۳z = ۲ (۱
+x - ۲y + ۳z = -۳ (۲
+X – ۲y + ۳z = -۲ (۳
+x - ۲y + ۳z = ۳ ۴

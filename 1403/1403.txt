@@ -1,0 +1,221 @@
+
+--- OCR_page_2 ---
+
+164 C
+صفحه ۲
+مهندسی کامپیوتر (کد ۱۲۷۷) داوطلب گرامی عدم درج مشخصات و امضا در مندرجات جدول زیر به منزله عدم حضور شما در جلسه آزمون است. با آگاهی کامل یکسان بودن شماره
+با شماره داوطلبی
+اینجانب صندلی خود با شماره داوطلبی مندرج در بالای کارت ورود به جلسه بالای پاسخنامه و دفترچه سؤالها، نوع و کد کنترل درج شده بر روی دفترچه سؤالها و پایین پاسخنامه ام را تأیید مینمایم.
+امضا
+زبان عمومی و تخصصی (انگلیسی):
+1-
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the answer on your answer sheet.
+But at this point, it's pretty hard to hurt my .................... I've heard it all, and I'm still here.
+1) characterization
+3) sentimentality
+2-
+1) demonstrated
+2) confronted
+3-
+2) feelings
+4) pain
+3) invulnerable
+Be sure your child wears sunscreen whenever she's ....
+Many of these popular best-sellers will soon become dated and
+to the sun.
+4) exposed
+and
+...
+will eventually go out of print.
+1) irrelevant
+2) permanent
+4-
+The men who arrived in the
+3) fascinating
+4) paramount
+of criminals were actually undercover
+police officers.
+1) uniform
+2) job
+3) guise
+4) distance
+5-
+It was more
+.....
+to take my meals in bed, where all I had to do was push
+away my tray with its uneaten food and fall back upon my pillows.
+1) haphazard
+6-
+7-
+2) reckless
+3) convenient
+4) vigorous in his home country. Nicaraguans
+His victory sparked a rare wave of .................. poured into the streets, honking car-horns and waving the national flag. 1) serendipity
+2) tranquility
+3) aspersion
+He liked the ease and glitter of the life, and the luster being a member of this group of rich and conspicuous people. 1) conferred
+2) equivocated
+PART B: Cloze Test
+3) attained
+4) euphoria
+on him by
+4) fabricated
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+Roman education had its first "primary schools" in the 3rd century BCE, but they were not compulsory (8) entirely on tuition fees. There were no official schools in Rome, nor were there buildings used specifically for the purpose. Wealthy families
+(9) private tutors to teach their children
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+164 C
+مهندسی کامپیوتر (کد ۱۲۷۷)
+at home, while less well-off children were taught in groups. Teaching conditions for teachers could differ greatly. Tutors who taught in a wealthy family did so in comfort and with facilities; (10) been brought to Rome as slaves,
+and they may have been highly educated.
+8-
+1) which depending
+3) for depended
+9-
+1) have employed
+3) were employed
+10- 1) some of these tutors could have 3) that some of them could have
+PART C: Reading Comprehension
+2) and depended
+4) that depended 2) employed
+4) employing
+2) because of these tutors who have 4) some of they should have
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+First, there is the question of a definition of a computer virus. There is currently no agreement in the computer community. To the general reader differences may appear slight but to the technician they are major. There are many who consider computer viruses as the offspring of Dr. Frederick B. Cohen. He created a virus, as part of his doctoral thesis, in an effort to find ways to defend computer systems from self-replicating programs. There are others who claim that computer viruses existed well before 1984 when Dr. Cohen did his research. The debate about the appearance of the first virus will probably continue far into the future. Currently it does not appear likely that computer scientists will agree upon an 'official' definition of the term.
+Dr. Cohen first made his research public at the 1984 National Computer Security Conference. He made his findings known to an international audience during his presentation that same year at the International Federation for Information Processing Computer Security Conference in Toronto, Canada, IFIP/Sec '84. That conference was sponsored by IFIP Technical Committee 11 responsible for information processing security. It was attended by several hundred computer security specialists from all over the world. We often tell our lecture audiences about the reaction to his presentation at that meeting. Later in the day, after Dr. Cohen presented his paper, we met with several computer security directors from Europe and Asia. Most of them felt that Dr. Cohen's report was interesting but esoteric. One security director from a major multinational corporation remarked that it was most interesting to him that an American university would provide a young man with a laboratory “to play games." He could see no "practical" application of the research and felt that it too would disappear among the many "useless, academic studies."
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+164 C
+مهندسی کامپیوتر (کد ۱۲۷۷)
+11- The word “debate” in paragraph 1 is closest in meaning to
+2) discussion
+3) experiment
+1) finding 4) classification 12- According to paragraph 1, which of the following is true about the first virus created?
+1) The jury is still out regarding the appearance of the first virus.
+2) There is a unanimous agreement that Dr. Cohen created it.
+3) It was created as part of an academic research to reveal the vulnerability of academic computer systems.
+4) It was created by Dr. Cohen in the mid-20th century to defend computers from
+self-replicating programs.
+13- The word "it" in paragraph 2 refers to
+1) world
+2) security
+14- According to paragraph 2, Dr. Cohen
+......
+3) committee
+4) conference
+1) first made his research public by publishing it in a scientific journal
+2) made his findings known to an international audience in 1984
+3) made his findings known to an international audience at National Computer Security Conference
+4) first made his research public at the International Federation for Information Processing Computer Security Conference
+15- According to the passage, which of the following statements is true?
+1) Few among the audience agreed that Dr. Cohen's report was interesting.
+2) It is possible that the community of computer scientists will soon agree on an "official" definition of the virus.
+3) One security director from a major multinational corporation dismissed Dr. Cohen's research as something not very serious.
+4) National Computer Security Conference was sponsored by IFIP Technical Committee 11 responsible for information processing security.
+PASSAGE 2:
+The programming process can be subdivided into a number of tasks of which debugging is perhaps one of the most pervasive. For example, it is frequently estimated that testing and debugging account for approximately 50% of the cost of new systems development. This situation holds also for the later maintenance phase. Furthermore, the introduction of new approaches such as fourth-generation languages does not immediately threaten much of the current mode of system development and enhancement.
+Debugging can be regarded as a problem-solving task in which the interaction. between programmers' knowledge structures and environmental variables determines the effectiveness of debugging performance. While acknowledging that individual differences play a major role in debugging effectiveness, this paper investigates one of the environmental variables--the nature of the program bug--to examine its effect on the debugging process. The ultimate aim of the paper is to contribute to a general theory of program bugs.
+Debugging studies such as those by Gould & Drongowski (1974) and Gould (1975) addressed the effect of the type of programming language statement containing the bug on debugging performance. They found that assignment bugs were much harder to detect and correct than were array or iteration bugs.
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+164 C
+مهندسی کامپیوتر (کد ۱۲۷۷)
+Unfortunately, the routines Gould used were statistical routines and the assignment bugs involved knowledge of statistics, i.e. domain knowledge not commonly possessed by the average programmer. These results highlight the anomalies that may arise when we do not have a general concept of program bugs. Furthermore, they illustrate the need to investigate the nature of bugs if research into debugging is to progress.
+16- The word "pervasive" in paragraph 1 is closest in meaning to
+1) prevalent
+2) difficult
+17- The word "they" in paragraph 2 refers to
+1) the anomalies
+3) these results
+3) perilous
+4) technical
+2) program bugs
+.....
+4) statistical routines
+18- The passage is probably taken from which of the following parts of an article?
+2) Introduction
+3) Abstract
+4) Methodology
+1) Discussion 19- According to the passage, which of the following statements is true? 1) Testing alone accounts for 25% of the cost of new systems development. 2) Individual differences almost play no role in the effectiveness of debugging. 3) Based on the debugging studies, array or iteration bugs were less difficult to identify than assignment bugs.
+4) Debugging studies such as those by Gould & Drongowski were published in the second half of the 19th century.
+20- The passage provides sufficient information to answer which of the following questions?
+I. What is the most frequent task in the programming process?
+II. Who first used the term bug in the context of computer programing?
+III. What is the prerequisite for the progress of research into debugging? 1) Only I
+2) Only II
+PASSAGE 3:
+3) I and III
+4) Only III
+In parallel with the growing recognition of computer design and engineering as a distinct area of professional activity, computer development moved from universities to the private sector. As has been well documented, many companies entered the field in the 1950s. In fact, individuals from companies rather than universities dominated the organizing committee of the first JCC. This new industry was also where the identity of the computer engineer was ever more solidly linked to preexisting academic credentials (such as degrees in electrical engineering), specialized expertise, control over specific work tasks, and differentiation from other professionals. The case of Engineering Research Associates (ERA) offers further insights about the position of engineers in one pioneering firm. Founded in the mid-1940s, this Minneapolis-based company's early activities included developing electronic data-processing systems, especially for the US Navy; it was later well known for its stored-program computer, the 1101.
+The company's founders and early personnel included a roughly even mix of mathematicians, electrical engineers, and physicists. Yet as the firm grew, engineers increasingly filled its ranks. Per Arthur Norberg, “40 percent of the 1943 electrical engineering graduates of the University of Minnesota . . . joined ERA
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+164 C
+مهندسی کامپیوتر (کد ۱۲۷۷)
+after the war and a significant number . . . of the class of 1951 accepted their first job at ERA." Additional details can be gleaned from a 1952 personnel directory, which reveals that more than 60 percent of the company's "professional" staff held engineering degrees. Furthermore, more than 40 percent of this same group had at least one degree in electrical engineering, and between half and two-thirds of the company's directors and vice presidents held electrical engineering degrees.
+21- The passage mentions all of the following terms EXCEPT.......
+1) human resource
+3) specialized expertise
+2) personnel directory
+4) academic credentials
+22- Why does the author mention ERA in paragraph 1?
+1) As it was famous for its high-tech laboratories
+2) As it was a company where theory and practice best intersected
+3) As it demonstrates the position of engineers in a leading company
+4) As it was the most advanced engineering firm cooperating with the US Navy
+23- According to paragraph 2, ERA's founders and early personnel included all of the following EXCEPT
+1) physicists
+.....
+3) electrical engineers
+2) mathematicians
+4) electronics engineers
+24- According to the passage, which of the following statements is true?
+1) People from universities rather than companies made up the majority of the organizing committee of the first JCC.
+2) Developing electronic data-processing systems was among the early activities of Engineering Research Associates.
+3) More than half of the 1943 electrical engineering graduates of the University of Minnesota joined ERA after the war.
+4) As the recognition of computer design and engineering as a separate area increased, computer development moved from the industry to the academia. 25- The passage provides sufficient information to answer which of the following questions?
+I. Where was computer first invented?
+II. In which decade was ERA established?
+III. How many of the US companies' staff held electrical engineering degrees? 1) Only I
+2) Only II
+3) Only III
+4) II and III
+ریاضیات (ریاضی عمومی (۱) و (۲) آمار و احتمال مهندسی، ریاضیات گسسته):
+۴
+-۲۶ اگر به ازای اعداد حقیقی x و y تساوی (۱) = xey برقرار باشد آنگاه مقادیر x و y، کدام اند؟ (k e Z)
+хе
+x = Y √F
+y =
+X =
+兀
+μ
+V/F
+π
++ĭkπ
+y = = = +rk:
+pu
+(۲
+(۴
+y
+=
+X x = √F Κπ ()
+y

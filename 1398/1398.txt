@@ -1,0 +1,239 @@
+
+--- OCR_page_2 ---
+
+مجموعه مهندسی کامپیوتر - کد (۱۲۷۷)
+934C
+صفحه ۲
+داوطلب گرامی عدم درج مشخصات و امضا در مندرجات جدول ذیل به منزله عدم حضور شما در جلسه آزمون است.
+با شماره داوطلبی
+با آگاهی کامل یکسان بودن شماره
+اینجانب صندلی خود را با شماره داوطلبی مندرج در بالای کارت ورود به جلسه بالای پاسخنامه و دفترچه سؤالات نوع و کد کنترل درج شده بر روی دفترچه سؤالات و پائین پاسخ نامه ام را تأیید مینمایم
+زبان عمومی و تخصصی (انگلیسی):
+امضا
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the answer on your answer sheet.
+1-
+Animal husbandry is the branch of agriculture raised for meat, fiber, milk, eggs, or other products. 1) handled
+2) concerned
+3) included
+2-
+1) violent
+2) distant
+3) temporary
+3-
+4-
+with animals that are
+4) interfered
+Named by Portuguese explorer Ferdinand Magellan, who believed it to be free of storms, the Pacific Ocean is not, in fact, so pacific.
+4) pointless
+Animal rights is not just a philosophy-it is a social movement that society's traditional view that all nonhuman animals exist solely for human use.
+2) magnifies
+3) distinguishes
+1) asserts If people can raise enough fish on farms, it stands to
+less inclined to hunt them from the sea.
+4) challenges
+that they will be
+4) attention
+an analogy between the human brain and the
+3) reason
+3) took
+3) tolerance
+4) put
+of the editor's comments made us think that he hadn't really read
+1) logic
+2) rationality
+5-
+The programmer
+computer.
+1) drew
+2) bore
+6-
+The
+the manuscript.
+1) intensity
+2) ignorance
+7-
+The two boys tried to sound
+2) impatient
+4) superficiality
+at the police station, but they weren't really
+3) regretful
+sorry that they had herded the sheep into Mr. Ingersoll's house. 1) resistant Though he spoke for over an hour, the lecturer was completely students had no idea what he was talking about.
+8-
+1) solitary
+9-
+2) inarticulate
+3) curious
+For years no one could make this particular therapy work rodents, but now two research groups have demonstrated its 1) efficacy
+2) restriction
+3) sympathy
+4) indifferent
+--------- and the
+4) effortless
+in animals larger than ----------- in dogs. 4) vulnerability
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+934C
+مجموعه مهندسی کامپیوتر - کد (۱۲۷۷)
+10- The African elephant has become the object of one of the biggest, broadest to turn a threatened species off the road to
+international efforts yet
+extinction.
+1) intruded
+2) explored
+3) mounted
+4) compensated
+PART B: Cloze Test
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+Scientists first recognized the value of the practice more than 60 years ago, when they found that rats (11) a low-calorie diet lived longer on average incidence of conditions that become -----, some of the treated animals
+than free-feeding rats and (12) increasingly common in old age. (13)
+survived longer than the oldest-living animals in the control group, (14) ------ that the maximum life span (the oldest attainable age), (15) - average life span, increased.
+------ merely the
+11- 1) were fed
+12- 1) had a reduced
+3) were reduced
+13- 1) Although
+14- 1) meant
+15- 1) no
+2) which they fed
+3) fed
+4) feeding
+2) they reduced
+4) that it reduced
+2) While
+3) What is more
+4) So that
+2) which means 2) nor
+3) means
+4) it means
+3) neither
+4) not
+PART C: Reading Comprehension
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+Back in 1994, programmers figured that whatever code they wrote would run at least 50 percent faster on a 1995 machine and 50 percent faster still on a 96 system. But it was seen that the party couldn't go on forever. For decades, microprocessor designers used the burgeoning number of transistors that could be squeezed onto each chip to boost computational horsepower. And chipmakers continually upped micro-processor clock rates, something the diminishing size of transistors readily allowed. But they found they could no longer reduce the operating voltage as sharply as they had in the past as they strived to make transistors smaller and faster. That in turn caused the amount of waste heat that had to be dissipated from each square millimeter of silicon to go up. Eventually designers hit what they call the power wall, the limit on the amount of power a microprocessor chip could reasonably dissipate.
+To solve that problem, the first general-purpose multicore CPU was designed. Everyone's happy except perhaps for the programmers, who must now write code so that work is divided among processor cores. As a result, sometimes different cores
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+934C
+مجموعه مهندسی کامپیوتر - کد (۱۲۷۷)
+need to work on the same data or must coordinate the passing of data from one core to another. To prevent the cores from overwriting one another's information, processing data out of order, or committing other errors, multicore processors use lock-protected software queues. But all that extra software comes with significant overhead, which gets worse as the number of cores increases.
+16- What is the best title for the above passage? 1) How to Make Multicore Chips Faster
+2) Breaking the Multicore Bottleneck 3) Multicore Made Simple
+4) The Trouble With Multicore
+17- What does the author mean by "the party couldn't go on forever" in line 3?
+1) Microprocessors could not scale up as efficiently as expected.
+2) Programmers could not join the party.
+3) Programming methods could not be the same as before.
+4) Designers had to abandon working on new ideas.
+18- Programmers were not happy with multicore CPU because
+1) they could not go to the party
+2) their programs were accelerated by multicore CPU
+3) instructions had to be executed sequentially
+4) they needed to change their programming methods
+19- In a single-core CPU, computational power could NOT be increased any more by
+1) increasing the number of transistors
+3) raising the clock rate
+2) reducing the size of transistors
+4) reducing the power supplied
+20- What was the bottleneck for boosting computational horsepower?
+1) Programming method
+3) Faster transistors
+PASSAGE 2:
+2) Power dissipation
+4) Advanced technology
+It should come as no surprise that recent advances in big-data analytics and artificial intelligence have created strong incentives for enterprises to amass information about every measurable aspect of their businesses. And financial regulations now require organizations to keep records for much longer periods than they had to in the past. So companies and institutions of all stripes are holding onto more and more. Studies show that the amount of data being recorded is increasing at 30 to 40 percent per year. At the same time, the capacity of modern hard drives, which are used to store most of this, is increasing at less than half that rate. Fortunately, much of this information doesn't need to be accessed instantly. And for such things, magnetic tape is the perfect solution. Tape has been around for a long while, but the technology hasn't been frozen in time. Apart from some negative points, the magnetic tape's advantages are many. To begin with, tape storage is more energy efficient: Once all the data has been recorded, a tape cartridge simply sits quietly in a slot in a robotic library and doesn't consume any power at all. Tape is also exceedingly reliable, with error rates that are four to five orders of magnitude lower than those of hard drives. And tape is very secure, with built-in, on-the-fly encryption and additional security provided by the nature of the medium itself. After all, if a cartridge isn't mounted in a drive, the data cannot be
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+934C
+مجموعه مهندسی کامپیوتر - کد (۱۲۷۷)
+accessed or modified. This "air gap" is particularly attractive in light of the growing rate of data theft through cyberattacks. The offline nature of tape also provides an additional line of defense against buggy software.
+21- According to the first paragraph,-
+1) magnetic tape is the dominant data storage device nowadays
+2) capacity of modern hard drives is increasing at least 15 to 20 percent each year
+3) tape recording technology has been recently utilized
+4) magnetic tape technology has advanced over the decades
+22- Which of the following has NOT been mentioned as a reason for massive data storage?
+1) Security requirements
+3) Big-data applications
+2) Financial rules
+4) Artificial intelligence
+23- According to the passage, which of the following is a disadvantage of magnetic tape?
+1) Low storage capacity
+3) High power consumption
+2) Slow access speed
+4) Low security and stability
+2) its higher capacity for redundant data
+24- Tape recording technology is more secure than hard disks because of
+1) its lower operating costs
+3) the offline nature of the medium
+25- The above passage mainly
+1) compares two data storage technologies
+4) the locked nature of the medium
+2) talks about the motivations for data storage advancements
+3) discusses the pros and cons of an old technology as a solution to a recent problem 4) reviews the history of data storage systems
+PASSAGE 3:
+In object-oriented computer programming, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible and maintainable. The principles are a subset of many principles promoted by Robert C. Martin. Though they apply to any object-oriented design, the SOLID principles can also form a core philosophy for methodologies such as agile development or adaptive software development. The theory of SOLID principles was introduced by Martin in his paper of 2000, although the SOLID acronym itself was introduced later by Michael Feathers.
+SOLID stands for:
+1. Single responsibility principle: A class should only have a single responsibility. 2. Open/closed principle: Software entities should be extensible without modifying existing code.
+3. Liskov substitution principle: Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
+4. Interface segregation principle: Many client-specific, cohesive interfaces are better than one general-purpose interface.
+5. Dependency inversion principle: Classes should depend upon abstractions, not concretions.
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+934C
+مجموعه مهندسی کامپیوتر - کد (۱۲۷۷)
+26- Which of the following can be inferred from the passage?
+1) Adherence to SOLID can facilitate software maintenance.
+2) The Interface Segregation Principle was promoted by Michael Feathers. 3) Concretions are harmful to agility.
+4) The SOLID acronym was introduced in 2000.
+27- Which of the following has NOT been mentioned as a benefit of SOLID?
+1) Increased robustness
+3) Increased flexibility
+2) Increased maintainability 4) Increased comprehensibility
+28- According to the passage, which of the following is addressed by SOLID?
+29-
+1) Replaceability of objects by their subtypes
+2) Reusability of system components
+3) Reliability of class methods
+4) Extensibility of network topologies
+Which of the following is more appropriate as a title for this passage?
+1) Object-Oriented Design Principles
+2) A Foundation for Agile Organizations
+3) A Typology of Solids
+4) Fundamentals of Architectural Design
+30- Which of the following words is closer in meaning to "mnemonic" in line 1?
+1) Reminiscent
+3) Inovative
+2) Practical
+4) Compulsive
+ریاضیات ریاضی عمومی (۱و۲) معادلات دیفرانسیل آمار و احتمال مهندسی ، ریاضیات گسسته :
+۳۱ فرض کنید x + iy = یک عدد مختلط باشد مقدار | In | z، کدام است؟
+lim به ازای ۱ x کدام است؟
+11-∞
+xln z-yargz ()
+y ln z +x argz (
+x In z+y argz ( yln z-xargz (f
+[x]+[x']+···+[x"]
+-۳۲ مقدار
+(۱) صفر
++00 (r
+X
+(۳)
+X-1
+X

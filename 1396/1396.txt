@@ -1,0 +1,192 @@
+
+--- OCR_page_2 ---
+
+صفحه ۲
+321C
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+زبان عمومی و تخصصی (انگلیسی)
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes the blank. Then mark the correct choice on your answer sheet.
+1-
+2-
+3-
+4-
+You might not be thinking about cholesterol yet, but high levels of cholesterol increase your of heart disease, so find out what your level is now.
+2) level
+2) credibility
+3) strength
+1) risk With the of the Internet, working from home has become a real phenomenon. 1) demonstration 3) advent The teacher was gratified to see two older students dispute between a number of third and fourth graders. 1) raise Even though the unemployment rate continues to, voters are still unhappy with the president's economic plan.
+1) restore
+5-
+2) encourage
+2) abandon
+4) exposure
+4) dexterity
+to settle the playground
+3) promote
+4) intervene
+3) abate
+4) delay
+Her maudlin display of tears at work did not impress her new boss, who felt she should try to control her ---------
+1) emotions
+2) secrets
+3) errors
+4) restrictions
+6-
+The heavy rain did not, so they cancelled their camping trip.
+1) emerge
+2) evaporate
+3) subside
+4) collapse
+7-
+Whitney is
+about her shoes, arranging them on a shelf in a specific order, each
+pair evenly spaced.
+1) spectacular
+2) fastidious
+3) conscientious
+4) conventional
+8-
+2) diverse
+This agreement is very and open to various interpretations. 1) intentional
+3) superficial
+4) ambiguous
+9-
+repeat what he was saying.
+1) justify
+2) clarify
+10- Because of the chef's
+1) experimental
+2) flexible
+Because our instructor was so unclear, I had to continually ask him to and
+3) emerge 4) improvise cooking style, his food is easily identified in a taste test. 3) distinct 4) constant
+PART B: Cloze Passage
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+Remembering the past is an integral part of human existence. Without a good memory, you would not be able to drive to work, hold a meaningful conversation with your children, (11) --------- a book or prepare a meal.
+Memory has fascinated humans since (12); Plato famously compared our memory to a wax tablet that is blank at birth (13) --- on the impression of the events from our life. Only in the past hundred years, though, (14) -------- systematic objective techniques that have enabled us to study our recollections of the past with scientific accuracy and reproducibility. These range from laboratory tests of our ability to remember verbal and visual materials (15) more recent brain-imaging approaches.
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+11- 1) then read
+12- 1) ancient times
+13- 1) slowing taking
+2) reading
+321C
+2) ancient time
+2) to slowly take
+3) to read
+آزمون مهندسی کامپیوتر (کد ۱۲۷۷)
+3) time of ancient
+4) read
+4) times of ancient
+3) and slowly takes 2) have psychologists developed 4) for psychologists to develop
+4) that slowly takes
+14- 1) psychologists have developed
+3) with psychologists developing
+15- 1) with
+2) from
+PART C: Reading Comprehension:
+3) in
+4) to
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet
+PASSAGE 1:
+In 1983 a new type of phonograph disc reached the marketplace, which showed promise of eventually taking over the recording industry. It was called the compact disc and made use of two technical systems: digital recording and laser beams. All recording until the advent of the compact disc was analog recording, which recorded the vibrations of sound waves on a track. With analog recording, there was always a bit of slippage, which added distortion. Digital recording is a completely different process, one in which the distortion is so small that it can be said to be effectively eliminated. Thus the fidelity of the compact disc is extremely high.
+Because the indentations on the compact disc pass under a laser beam, no solid device is in contact with the disc, and therefore there is no friction, and wear is eliminated. With a minimum of care, the compact disc should last indefinitely. This is in contrast to the relatively short life of an analog recording. Another advantage of the compact disc is the system of identifying numbers that allows for random access to any song on the recording with the push of a button.
+Because of the improved qualities and advantages of the compact disc, production has increased significantly since its introduction. Although analog recording continues, it is expected to be relegated to a nostalgic past as the CD becomes the recording format of the fixture.
+16- What is the author's purpose in writing this passage?
+1) To criticize analog recording
+2) To compare recent improvements in recording
+3) To present the advantages of the compact disc
+4) To support the idea of change in the music industry
+17- The paragraph that precedes this passage most likely deals with
+1) nostalgia in the 1990s
+3) the other uses of laser beams
+2) recording methods before 1983 4) major stars in the recording industry
+18- Which of the following is NOT mentioned as an advantage of the compact disc? 1) Long life
+3) High-quality sound
+2) Small distortion
+4) The number of songs on a recording
+19- The tone of the passage could best be described as
+1) positive
+3) humorous
+2) negative
+4) argumentative
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+321C
+آزمون مهندسی کامپیوتر (کد (۱۲۷۷)
+20- According to the passage, it can be concluded that 1) compact discs require a lot of special care
+2) analog records will eventually be difficult to obtain
+3) people didn't enjoy good music until the advent of the compact disc
+4) people will eventually stop buying compact discs because they last indefinitely
+PASSAGE 2:
+In the beginning of the virus era, the most common vector of propagation was the exchange of files via floppy disks and similar supports. The pathogens were viruses, in the strictest sense: they propagated by appending their code to a host program, which had to be executed in order to spread the infection, and to execute the payload if present. This applies, with some modification, also to the so-called "boot sector viruses" which infected the boot loader of the operating system, and spread by infecting the boot sector of floppy disks, which would run whenever a disk was unintentionally left in the machine at boot time. The same concept, in more recent times, has been extended to macro languages embedded in office automation suites, generating the so-called "macro viruses".
+The concept of a worm, i.e. a self-contained, self-propagating program which did not require a host program to be carried around, was also developed, but was somehow neglected for a long time. In 1988, however, the Internet Worm changed the landscape of the threats. The Internet Worm was the first successful example of a self- propagating program which did not infect host files, but was self-contained. Moreover, it was the first really successful example of an active network worm, which propagated on the Internet by using well-known vulnerabilities of the UNIX operating system. Other worms used open network shares, or exploited vulnerabilities in operating systems and server software to propagate.
+21- With what topic is the passage mainly concerned?
+1) Creation of new viruses
+2) New code propagation techniques
+3) Viral code propagation vectors
+4) The spread of computer viruses
+22- According to the passage, in the beginning of the virus era ------------
+1) viruses stopped the execution of host programs
+2) most viruses would spread from file to file
+3) self-replicating codes were developed
+4) macro viruses were the most common propagation vector
+23- The work "self-contained" in Paragraph 2 could best be replaced by
+1) liberal
+3) available
+24- According to the passage, the Internet Worm
+1) uses host programs to spread
+2) is a reliable model of worm propagation
+2) modified 4) independent
+3) uses the weaknesses of operating systems to spread 4) has been used to predict the behavior of other worms
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+321C
+آزمون مهندسی کامپیوتر (کد (۱۲۷۷)
+25-
+With which of the following conclusions would the author most probably agree? 1) Viral code propagation vectors have evolved over the years.
+2) The concept of a computer virus is relatively new.
+3) Many organizations have benefited from the spread of computer viruses.
+4) Researchers have been unable to investigate the behavior of propagation vectors.
+PASSAGE 3:
+As computers have become powerful tools for the rapid and economic production of pictures, computer graphics has emerged as one of the most rapidly growing fields in computer science. It is used routinely in such diverse areas as business, industry, art, government, education, research, training, and medicine.
+One of the initial uses of computer graphics, and ultimately its greatest use, has been as an aid to design, generally referred to as computer-aided design (CAD). One of its greatest advantages is that designers can see how an object will look after construction and make change freely and much more quickly than with drafting. For three-dimensional rendering of machine parts, engineers now rely heavily on CAD. Automobile, spacecraft, and ship designers use CAD techniques to design vehicles and test their performance. Building designs are also created with computer graphics systems. Architects can design a building layout, create a three-dimensional model, and even go for a simulated "walk" thorough the rooms or around the outside of the building.
+Business graphics is another rapidly growing area of computer graphics, where it is used to create graphs, charts, and cost models to summarize financial, statistical, mathematical, scientific, and economic data. As an educational aid, computer graphics can be used to create weather maps and cartographic materials. Computer art also has creative and commercial art applications, where it is used in advertising, publishing, and film production, particularly for computer animation, which is achieved by a sequential process.
+26- What does the passage mainly discuss?
+1) Computer graphics applications
+2) Routine uses of computers
+3) Computers as the architects of the future
+4) The rapidly growing field of computer science
+27- The word "it" in Paragraph 1 refers to
+1) fields
+3) computer science
+1) create graphs
+3) make cartographic materials
+2) computers
+28- According to the passages, architects use CAD to ---
+4) computer graphics
+2) inspect buildings
+4) create three-dimensional models
+29- Where in the passage does the author discuss the greatest advantage of computer
+graphics?
+1) Lines 3-5
+1) cost models
+3) computer animation.
+2) Lines 5-7
+3) Lines 9-11
+30- The paragraph following this passage would most likely be about
+4) Lines 15-17
+2) fight training
+4) applications of CAD in medicine

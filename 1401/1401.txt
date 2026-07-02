@@ -1,0 +1,233 @@
+
+--- OCR_page_2 ---
+
+مهندسی کامپیوتر (کد ۱۲۷۷)
+664B
+صفحه ۲
+متقاضی ،گرامی وارد نکردن مشخصات و امضا در کادر زیر به منزلهٔ غیبت و حضور نداشتن در جلسه آزمون است.
+اینجانب
+*********
+با شماره داوطلبی
+با آگاهی کامل یکسان بودن شماره صندلی خود را
+با شماره داوطلبی مندرج در بالای کارت ورود به جلسه بالای پاسخنامه و دفترچه سؤالها نوع و کد کنترل درج شده بر روی دفترچه سؤالها و پایین پاسخ نامه ام را تأیید مینمایم.
+امضا:
+زبان عمومی و تخصصی (انگلیسی)
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the answer on your answer sheet.
+3) restless
+directions for the housekeeper, so she knows what needs to be done. 2) cursory 4) authentic their name from the sacred images found on them by the early
+1-
+Please leave
+1) explicit
+2-
+The islands
+European navigators.
+1) grasp
+2) infer
+3-
+3) illustrate
+4) derive
+People love the Presidio because it is in close ---------- to many area attractions, including the famous aquarium, the SFB Morse Botanical Reserve and the Spanish Bay Resort Golf Course.
+1) observation
+4-
+2) accord
+3) proximity
+4) relevance
+This system, which for many years subsequently was regarded as authoritative, has been subjected to ---------- criticism by later economists, and it is perhaps not too much to say that it now possesses mainly a historical interest.
+2) vigorous
+3) feeble
+4) transient
+Although Norman could ---------- his sister's story about her innocence to absolve her, he refused to do so because he was angry at her.
+1) shaky
+5-
+1) retain
+6-
+2) fulfill
+3) testify
+4) corroborate
+When he came in to tea, silent, ----------, and with tear-stained face, everybody pretended not to notice anything.
+1) morose
+7-
+2) mercurial
+3) showy
+4) facetious
+Since color is absorbed as it travels through water, the deeper you are, the more likely you will notice a ---------- in the clarity of reds, oranges and yellows.
+1) competition
+8-
+2) reduction
+3) deception
+4) intensification
+As the students argued, the teacher tried to ---------- them into silence with the threat of a detention.
+2) condense
+3) condemn
+1) coerce Teachers who consider cartoons and comic books -------- to students' literacy skills often use class time to deride these media.
+4) impose
+3) harmful
+4) pertinent
+------
+as a condiment and preservative, but also
+because they are essential to the health of humans and animals.
+3) properties
+4) variances
+9.
+1) indispensable
+2) conducive
+10-
+Salt is valued not only because of its
+1) temptations
+2) predictors
+Telegram Channel: @konkurcomputer
+[www.konkurcomputer.ir]
+کنکور کامپیوتر
+konkurcomputer.ir
+(
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+664B
+مهندسی کامپیوتر (کد ۱۲۷۷)
+PART B: Cloze Test
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+Being funny has no place in the workplace and can easily wreak havoc (11) an otherwise blossoming career. Of course, laughter is necessary in life. But if you crack jokes (12) ----- snide remarks at work, you will eventually not be taken (13) ----------. You will be seen as someone who wastes time (14) ---- could better be spent discussing a project or an issue. Additionally, many corporate-minded individuals do not have the time to analyze comments with hidden meanings-they will take what you say (15) and as an accurate representation of your professionalism in the workplace.
+11- 1) for
+2) at
+3) in
+12- 1) then make
+2) and make
+3) to be made
+4) on
+4) which they make
+13-
+1) seriously by others
+3) serious by others
+14-
+1) that it
+2) that
+2) being seriously by others
+4) by some others serious 3) when
+15- 1) that is absolute
+2) be absolute
+3) as absolute
+4) and
+4) is absolute
+PART C: Reading Comprehension
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+When a user enters a query into a search engine (typically by using keywords), the engine examines its index and provides a listing of best-matching web pages according to its criteria, usually with a short summary containing the document title and sometimes parts of the text. The index is built from the information stored and the method by which the information is indexed. The usefulness of a search engine depends on the relevance of the results set it gives back. For instance, there may be millions of web pages that include a particular word or phrase, but some pages may be more relevant, popular, or authoritative than others. Most search engines employ methods to rank the results to list the "best" results first. How a search engine decides which pages are the best matches, and in what order the results should be presented, varies widely from one engine to another. Also, search engine ranking methods change over time as the way users interact with internet services changes and new techniques evolve.
+Many search engines, such as Google and Bing provide customized results based on the user's activity history. This leads to an effect that is called a filter bubble. The term describes a phenomenon in which websites use algorithms to selectively guess what information a user would like to see, based on information about the user (such as location, past click behavior and search history). As a result, websites tend to show
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+664B
+مهندسی کامپیوتر (کد ۱۲۷۷)
+only information that agrees with the user's past viewpoint, effectively isolating the user in a bubble that tends to exclude contrary information.
+16- There are different search engines in terms of
+1) speed and efficiency of the search results
+2) the technique used to provide the search results
+3) the authority of the provided search results
+4) the relevance of the set they give back
+17- All of the following are the main jobs of search engines EXCEPT
+1) providing list of the best-matching web pages
+2) providing an index from the information stored
+3) providing the search in descending ranked order
+4) providing information that agrees with the user's past viewpoint 18- The word "evolve" in the last line of paragraph 1 means ---------- 1) convert 3) develop 19- According to the passage, which sentence is True?
+20-
+2) appear
+1) The index is made up of the information stored.
+2) Bing search engine customizes results using a filter bubble. 3) The user's activity history is used to index the search engine.
+4) substitute
+4) Search engine index contains a short summary of documents' title. Following the passage, which one is correct?
+1) The search results of search engine are listed based on the size of each result's text corpus.
+2) A customized search engine provides the results following the past selected results of the user.
+3) An algorithm is used to bubble the search engine's results.
+4) A search engine with a customized results are more popular.
+PASSAGE 2:
+To "recover" data from a bad sector, one would simply need to issue the Read Long command instead of the "normal" Read Sectors command. That is really it! It is so simple that any software developer who is familiar with hard drives can do it. And sure enough, more and more data recovery tools now come with a Bad Sector Recovery option. In fact, if a tool does not have a bad sector recovery feature, it automatically falls into a second-grade category.
+Error checking and correction algorithms were implemented for a reason, which is data integrity. When a hard drive reads a sector with the Read Long command, it disables these algorithms and hence there is no way to prove that you get valid data. Instead, you get something, which may or may not resemble your customer's data.
+Tests in our lab had shown that this approach allows you to get much more random bytes than anything else. Yes, there are cases where this approach allows recovering original data from a sector. But these cases are extremely rare in real data recovery scenarios, and even then, only a part of the recovered sector will contain valid data.
+There are tools that claim better bad sector recovery. But they utilize a statistical approach, an algorithm where the tool reads the bad sector a number of times and then reconstructs the "original" sector by locating the bits that occur most often in the
+Telegram Channel: @konkurcomputer
+[www.konkurcomputer.ir]
+کنکور کامپیوتر
+konkurcomputer.ir
+(
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+664B
+مهندسی کامپیوتر (کد ۱۲۷۷)
+sector. While these tools claim this approach could improve the outcome, there is no evidence to back up the validity of such claims. Furthermore, re-reading the same spot many times while the hard drive is failing is a reliable way to cause permanent damage to the media or heads.
+21- The best title for this passage is
+1) What is common with data corruption?
+2) Understanding bad sector options.
+3) Debunking bad sector recovery. 4) How bad sector recovery works?
+22- To verify data integrity, a hard drive
+1) prevents the data corruption through the use of some mechanisms.
+2) makes data more actionable by adding a layer of richness and complexity to it
+3) proves that you get valid data by reading a sector with the Read Long command
+4) will always validate it with error checking and correction algorithm
+23- According to the passage, recovering original data from a sector ----------. 1) is usually possible up to an extent
+2) is fully possible only in our testes in a lab 3) is carried out by omitting the random bytes 4) is a consequence of using the proper approach
+24- Statistical approach, as stated in the passage,
+1) reconstructs the original sector by locating the bits 2) is a reliable and trustful way to back up data
+3) is a tool optimizing the results of bad sector recovery 4) represents a claim that its authenticity has not been proven 25- The word "outcome" in paragraph 4 means ---------
+1) consequence
+PASSAGE 3:
+2) motivation
+3) observation
+4) consideration
+There are two important types of packet networks: connectionless packet networks and connection-oriented packet networks. Connectionless packet networks operate in a way analogous to the post office. Connectionless networks offer best effort packet- delivery service. Connectionless packets are launched into the network with a large and powerful header that contains all the information necessary to deliver the packet, whatever its destination. As a by-product of their connectionless nature, it is not possible to guarantee performance or reserve network resources for any particular communication, so connectionless networks do not support real-time services reliably. The switches in the network are stateless. When the network is subjected to overload, packets are buffered for later delivery. If the buffer capacity is exceeded, the packets are discarded. In connectionless networks there is no guarantee that all packets will traverse the same network path and be subject to the same delays. If a communication requires the transmission of a series of packets, it is up to the end stations to ensure that the sequence is preserved.
+Connection-oriented packet networks have similarities with both circuit networks and packet networks. They are like circuit networks in that a connection, called a virtual circuit, must be established before data can be transported. Network nodes are
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+664B
+مهندسی کامپیوتر (کد ۱۲۷۷)
+prepared to support virtual circuits, and they devote resources to them. The resources include buffer memory and link bandwidth. Assumptions are made about the traffic likely to be contributed by all the sources, and the network may overload if all sources begin sending packets at their peak rate. Occasional pileups of traffic are to be expected and are handled by maintaining local memory to buffer packets until it is possible to transmit them. The network is not stateless. When all the resources are committed, the network may deny requests to establish new virtual circuits. The headers of connection-type packet networks can be shorter than those of connectionless networks because the addressing portion of the header needs only to distinguish each virtual circuit from each other established on common links and switch ports.
+26- In connectionless packet networks, a packet is lost due to -------
+1) data delivery in many systems
+3) network congestion
+27- In connectionless type, data is sent outward
+1) by defining point of origin
+2) without regard for the recipient
+3) with the least error on the receiver's end
+2) unreliable real-time services
+4) connection release
+4) by demanding bi-directional communications
+28- All of the following are characteristics of a connection-type packet network EXCEPT
+1) all of packets between sender and destination follow the same path
+2) it makes virtual connections before sending packets
+3) it needs authentication of the destination
+4) it doesn't store the state of all connections that are present
+29- Which sentence, according to the passage, is True?
+1) Network nodes in connection-oriented services devote bandwidth and buffer memory to virtual circuits.
+2) Connectionless packet networks are mostly utilized by post offices.
+3) To provide connection-oriented services, it is optional to establish a connection first. 4) Connectionless packet network is safer because of its powerful header.
+30- The writer's tone of this passage is -------
+1) curious
+3) apprehensive
+2) superficial
+4) persuasive
+ریاضیات (ریاضی عمومی (۱و۲) آمار و احتمال مهندسی ، ریاضیات گسسته)
+-۳۱ به ازای چه تعداد عدد طبیعی ۱۰۰۱ n، تساوی ( 0 sin + icos (n (0) = (sin 0 + icos برقرار است؟
+Telegram Channel: @konkurcomputer
+[www.konkurcomputer.ir]
+401(1
+۵۰۰ ۲
+۲۵۱ (۳
+۲۵۰ ۴
+کنکور کامپیوتر
+konkurcomputer.ir
+(

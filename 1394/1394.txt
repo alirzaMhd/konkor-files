@@ -1,0 +1,223 @@
+
+--- OCR_page_2 ---
+
+صفحه ۲
+512C
+آزمون مجموعه مهندسی کامپیوتر
+زبان عمومی و تخصصی انگلیسی
+PART A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark your answer sheet.
+1- Being an honest person, she was unwilling to -------- Peter in the swindle he had planned.
+1) confirm
+2) abet
+3) jeopardize
+3) propensity
+4) impede
+4) elitism
+2- The girl is surrounded by so many possessions that testity to her family's
+1) opulence
+2) activism
+3- The physician advised the ---------- man to lose weight if he wanted to not be afflicted with different medical complications.
+2) sturdy
+3) immense
+4- Enlightened slave owners were willing to ---------- their slaves
+1) craven
+the evil.
+1) initiate
+2) emancipate
+3) efface
+4) obese
+and thus put an end to
+4) reject
+5- One of the most striking aspects of Indian cultures was the production of ceremonial costumes and ornaments worn during religious ------
+1) rituals
+6- The Clarks'-----
+1) extemporaneous
+2) subtleties
+3) fashions
+4) prefaces
+2) divisive
+spending habits have put them in debt. 3) extravagant
+4) passionate
+whatever was
+2) extinguish
+3) exclude
+4) glean
+7- The people who had lost their homes in the fire tried to
+salvageable from the ruins of that fire.
+1) confront
+8- The new study will test different doses for safety. And scientists should be able to tell if the antibodies ---------- some of Alzheimer's devastating mind-robbing symptoms.
+1) emerge
+2) predict
+4) precede
+9- Coaches often tell their players that a little nervousness is good because it keeps them on their ----
+1) limbs
+2) toes
+3) alleviate
+3) fingers
+3) falter
+4) feet
+4) perish
+10- Without liquids or food, people typically ---------- after 10 to 14 days.
+1) diminish
+2) recede
+PART B: Cloze Passage
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.
+Like most people, students tend to be overconfident about newly learned skills. This self- assessment problem can occur because the common educational practice of "massed training" promotes rapid acquisition of a skill-and self-confidence-but (11) ---------- retention of that capability. In mass training, instructors teach students in one or a few intense sessions. Students (12) ---------- such instruction quickly obtain the relevant knowledge. Yet skills taught in this way tend to decay rapidly, (13) ---- people remain unaware of this fact. (14) more evident than in driver education. Although millions of dollars (15) courses, they do not, the data suggest, produce safer drivers.
+11-1) not necessary for the
+3) not necessarily the
+12-1) undergo
+13-1) although
+2) undergone 2) however
+2) necessarily none of the 4) for no necessary 3) by undergoing 3) so that
+4) undergoing 4) then
+on such
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+512C
+آزمون مجموعه مهندسی کامپیوتر
+2) are spent
+2) This problem nowhere might be 4) Nowhere this problem might be 3) being spent 4) that are spent
+14- 1) Nowhere might this problem be 3) Nowhere might be this problem 15-1) spent
+PART C: Reading Comprehension
+Directions: Read the following four passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+PASSAGE 1:
+Mobile data communication is omnipresent. The mobile Internet connects people anywhere and allows for voice services and the exchange of data and multimedia content at any time. Numerous innovations in the information and communication technology (ICT) sector have enabled exponential growth in network capacity, leading to the emergence of smart phones and a user-experience rich in multimedia. The Internet of Things (loT) connects devices, or objects. to increase their efficiency by exploiting the potential of networking. The next wave of innovation will create the Tactile Internet. Extremely low latency in combination with high availability, reliability and security will define the character of the Tactile Internet. It will have a marked impact on business and society, introducing numerous new opportunities for emerging technology markets and the delivery of essential public services. The potentials of the Tactile Internet rely on application fields ranging from industry automation and transport systems to healthcare, education and gaming.
+16- Suggest a suitable title for the provided passage
+1) The future of Internet governance
+2) Management of loT services and applications
+3) Vision Tactile Internet - The next wave of future innovation area
+4) tam The Internet, one of the most disruptive technologies of the 20th century
+17- According to the provided passage, which of the suggested platforms has increased people communication?
+1) Automation and transport systems
+2) Mobile internet and lots
+3) Voice services
+4) Social media
+18- Which of the following phrases is NOT highlighted about Tactile Internet in the provided passage?
+1) One of the key features for Tactile Internet is low latency
+2) The market impact of Tactile Internet is unknown as a new concept
+3) A tangible platform to provide new opportunities for emerging technologies including smart phones
+4) The Tactical Internet's demands on future digital infrastructure and its expected impact on society are enormous
+
+
+
+--- OCR_page_4 ---
+
+صفحه ۴
+512C
+آزمون مجموعه مهندسی کامپیوتر
+PASSAGE 2:
+The debate over the balance between privacy and security continues to rage. On the one hand, the desire for privacy is nearly universal and many people regard personal information as personal property to be divulged only by choice or when required for a greater good. On the other hand, criminal and terrorist activity on the internet continues to increase, and national security and public safety are often seen as legitimate reasons for government to intervene to collect personal information. The collection, without permission, of personal information by commercial enterprises for profit-related activities adds a further layer of complexity.
+19- Which of the following can be a suitable title for the above passage?
+1) What new risks are generated by Big Data and the Internet of Things.
+2) Should our right to privacy be secondary to the need to protect national security. 3) The future of data protection in the EU - political, legal and technical implementation of the right to be forgotten.
+4) The current cyber-threat landscape and national/international responses.
+20- The underlined term "rage" in this context means:
+1) become outrageous
+2) to extravagant
+3) grossly offensive to decency, authority, etc
+4) to spread rapidly and uncontrollably
+21- According to the provided passage:
+1) Personal information used by authority helps securing the Internet
+2) People are happy to reveal their information to as personal property.
+3) It becomes more complicated when the data is divulged to the marketing sector without their consent.
+4) Legitimate reasons for the government cause criminal and terrorist activity on the internet.
+22- The term "intervene" underlined in the provided passage means:
+1) to interpose and become a party to a legal action between others
+2) to preface and serve as an introduction to
+3) to prevent and impede from happening 4) to precede and exist before
+PASSAGE 3:
+As microcosms of the Internet of Everything (loE), cities stand to benefit the most from connecting people, process, data, and things. Cities are developing loE-related projects, platforms, and implementations. Importantly, the loE ambitions and scope are designed to respond to the need for real-time, context-specific information intelligence and analytics to address specific local imperatives. IoE technical architectures for cities require seamless integration of sensors in a mutualised communication environment. Traditionally, a specific network is deployed around a given application, such as streetlight management, video surveillance, or environmental monitoring. While separate networks provide a natural separation of domains, typically they are not optimised (costs, security, availability), bringing about information silos. In addition, interaction between the sensor and devices in each network requires specific integration.
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+512C
+آزمون مجموعه مهندسی کامپیوتر
+23- According to the provided passage, what is the key challenge for the smart city
+realisation?
+1) Connecting people
+3) Integration of networks
+2) Data analysis
+4) Seamless architecture model
+24- What are the drawbacks of running separated traditional networks and domains?
+1) Difficult surveillance and environmental monitoring
+2) Complexity,security and availability
+3) Seamless integration of sensor networks
+4) Deployment of specific applications
+25- Which of the following points is incorrect?
+1) Separated domains are optimised w.r.t. costs, security, and availability.
+2) Interaction between the sensor and devices in each network requires specific ntegration.
+3) Smart cities demand for a seamless integration of sensors in a mutualised communication environment.
+4) The loE scope is mainly focused on the need for real-time data delivery and contextspecific information intelligence and analytics.
+PASSAGE 4:
+Traditional supercomputers focused on performing calculations at blazing speeds have fallen behind when it comes to sifting through huge amounts of "Big Data." Today, with the fast advance of big data science, analytics and technology, big data researchers and application professionals are able to access to diverse data mining and machine learning algorithms, open- source platforms & tools, and cloud DB technology and big data access technologies. When dealing with larger datasets, organizations face difficulties in being able to create, manipulate. and manage big data. Big data is particularly a problem in business analytics because standard tools and procedures are not designed to search and analyse massive datasets.
+According to IDC's prediction in 2013, the market for big data will reach $16.1 billion in 2014, growing 6 times faster than the overall IT market. Emergent big data computing and services can be used in many disciplines and diverse applications, including business management, library science, energy and environment, biomedical, and healthcare and life science, social media and networking, smart city, and transportation, etc.
+26- According to the provided passage, which of the following statements is correct: 1) Scalable and efficient big data computing services is one of the main challenges of BigData domain.
+2) Well-defined domain-specific big data knowledge engineering and analytic intelligence are currently in place.
+3) Super computers with blazing speed are already in place for big data infrastructures
+to support with high-quality big data DB technologies and tools.
+4) Various big data banks and resources with quality data collection, validation, evaluation and certification methods and standards are only required for hospitals /and e-health applications.
+27- Provide a synonym for underlined word "sift through" in the passage:
+1) Data mining
+3) Break through the data
+2) Big data computing
+4) Examine a lot of things carefully
+28- The underlined term "Emergent" in the provided passage means:
+1) Critical
+2) Emergency
+3) Prominent
+4) interesting
+
+
+
+--- OCR_page_6 ---
+
+صفحه ۶
+512C
+آزمون مجموعه مهندسی کامپیوتر
+29- According to the provided passage, which one of the followings best describes the main financial driver for Big Data innovations?
+30-
+1) The ever growing market for big data for the overall IT market across different disciplines.
+2) Big Data and Service Sharing in big data banks and resources, portals, platforms, and open-sources, technology and tools.
+3) Diverse data mining and machine learning algorithms, open-source platforms & tools, and cloud DB technology and big data access technologies.
+4) Big Data applications in real world and service projects for major application domains, including energy and environment, medical and healthcare, library, social media and networking, and education.
+Which of the following statements is incorrect?
+1) The big data market grows six times faster than the overall IT market.
+2) Existing hardware platforms are not fast enough for performing calculations of huge amounts of "Big Data."
+3) The larger the datasets, organizations can create, manipulate, and manage big data. 4) Current standard tools, machine learning and data mining algorithms cannot tackle the search and analysis of massive datasets.
+صورت
+ریاضیات ریاضیات مهندسی آمار و احتمالات محاسبات عددی ساختمانهای گسسته
+d f(x) = f(x+Yπ). f(x) =
+sin x
+Iπ<x<o <x<
+-۳۱ اگر سری فوریه تابع
+a
+است؟ (f(x) = + (an cosnx + bn sin nx) باشد کدام گزینه در مورد ضرایب سری فوریه صحیح
+[re
+u(a,0)=
+<e<π T < 0 < ۲
+n=1
+an =0,n=rk +1 9 b1 =0, n=rk + 1 ()
+و
+ano, n=rk, bn, n=rk +1 (
+و
+an =0, n=k, b1 =0, n=rk (r a1 =.n=rk+1 bp =0, n=rk (f 1 atu dr r 20
+du 10 را همراه با شرط مرزی
+rar dr
+oleo-T
+معادله لاپلاس در مختصات قطبی
+در نظر بگیرید در این صورت مقدار (0) چقدر است؟
+Y π ( )
+TE (Y
+元
+۲
+ttt
+(
+o (f

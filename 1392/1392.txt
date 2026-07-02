@@ -1,0 +1,242 @@
+
+--- OCR_page_2 ---
+
+صفحه ۲
+زبان عمومی و تخصصی
+صبح جمعه ۹۱/۱۱/۲۰ 510B
+Part A: Vocabulary
+Directions: Choose the word or phrase (1), (2), (3), or (4) that best completes each sentence. Then mark the correct choice on your answer sheet.
+1- Yet life is not literature, nor is literature life; the two are 2) distinct
+1) consistent 2-The hurricane would not have had such a/an
+2) ultimate
+3) temporary
+3) calculating
+4) adequate
+4) obligatory
+effect on the coastal village had the storm surge not arrived during an abnormally high tide. 1) devastating 3- Federica expressed doubt about the existence of true altruism, claiming that no one makes a ---------- without expecting to receive something in return in one form or another.
+2) hypothesis
+3) premise
+4) sacrifice
+1) facility 4- As a supporter of the value of free trade, Bennett was often called upon to give speeches around the world ---------- the virtues of unencumbered commerce.
+2) purchasing
+2) scheme
+3) praising
+3) schedule
+4) survival
+1) monitoring 4) exchanging 5- The efforts to revive the local economy after the departure of the town's largest employer were eased by the construction of a new arts center that would infuse the community with much-needed --- 1) revenue 6-Eagerly advocating rehabilitation, Gena has always believed that individuals who have been imprisoned deserve the opportunity to return to society as ---------- citizens. 1) voluntary 2) crucial 4) internal approval, the parliament accepted the new law that would prohibit companies from discriminating according to race in their hiring practices. 1) intrinsic 2) fanatical 4) unanimous 8- Many medical researchers now believe that there is such a thing as being too clean. The "hygiene hypothesis" suggests that excessively sanitary conditions can person's resistance to disease.
+7-With
+2) diminish
+3) productive
+3) sporadic
+3) abandon
+4) undertake
+a
+1) initiate 9- One popular misconception is that these subsidies produce lower food prices, and so to consumers. This analysis ignores the fact that consumers are also paying for these subsidies through taxes. 1) transfer
+are a
+A pat tad vad det v
+2) device
+4) status
+4) devote
+10-As one of the most popular writers of the 20th century, Jack Kerouac authored several books that to a wide variety of readers.
+áð si m
+1) appeal
+Part B: Cloze Test
+2) attribute
+3) boon
+3) appear
+Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark the correct choice on your answer sheet.
+The climate is expected to increasingly shape and (11) ---------- by cities. In a vicious circle. climate change will increase energy demand for air conditioning in cities. (12) ---- will add to greenhouse gas emissions. It could also raise temperatures in urban areas (13) --- 2-6 °C. “Heat, pollution, smog and ground-level ozone [from cities] affect surrounding areas. reducing agricultural yields. increasing health risks and (14) tornadoes and thunderstorms. (15)
+on urban water supplies are expected to be dramatic." the report says. Cities like New Delhi. in the drier areas. will be hit particularly hard.
+11-1) be shaped
+2) shaped
+3) is shaped
+12-1) where they
+2) they
+13-1) high up
+2) by
+3) that 3) for
+14- 1) to produce
+2) and produce
+3) and producing
+15- 1) The impacts of climate change
+3) The impact changes in climate
+4) be shaping 4) which
+4) at
+4) which produces
+2) The climate change impact 4) The change in climate impact
+
+
+
+--- OCR_page_3 ---
+
+صفحه ۳
+510B
+زبان عمومی و تخصصی
+PART C: Reading Comprehension
+Directions: Read the following three passages and answer the questions by choosing the best choice (1), (2), (3), or (4). Then mark the correct choice on your answer sheet.
+Passage 1:
+―
+Green Computing refers to environmentally sustainable computing or IT. In the article Harnessing Green IT: Principles and Practices, San Murugesan defines the field of green computing as "the study and practice of designing, manufacturing, using, and disposing of computers, servers, and associated subsystems such as monitors, printers, storage devices, and networking and communications systems — efficiently and effectively with minimal or no impact on the environment." The goals of green computing are similar to green chemistry; reduce the use of hazardous materials, maximize energy efficiency during the product's lifetime, and promote the recyclability or biodegradability of defunct products and factory waste. Many corporate IT departments have Green Computing initiatives to reduce the environmental impacts of their IT operations.
+Research continues into key areas such as making the use of computers as energy-efficient as possible, and designing algorithms and systems for efficiency-related computer technologies. The efficiency of algorithms has an impact on the amount of computer resources required for any given computing function and there are many efficiency trade-offs in writing programs. Algorithm changes, such as switching from a slow (e.g. linear) search algorithm to a fast (e.g. hashed or indexed) search algorithm can reduce resource usage for a given task from substantial to close to zero. A study by a physicist at Harvard estimated that the average Google search released 7 grams of CO2. However. Google disputes this figure, arguing instead that a typical search produces only 0.2 grams of CO2.
+16- The passage is mainly about:
+1) Google's hazards for the environment.
+2) reducing the negative impact of computing on the environment.
+3) increasing the energy efficiency of search algorithms.
+4) the pros and cons of using cost-effective strategies in IT environments.
+17- What is said about green computing?
+1) It has been adopted by major IT corporations.
+2) It tends to increase the costs associated with computing.
+3) It highlights the importance of energy efficiency.
+4) It will adversely affect the advancement of computing.
+18- According to the passage, efficient search algorithms can promote green computing by 1) reducing energy consumption.
+2) eliminating the need for processing resources.
+3) enhancing the recyclability of software products.
+4) abolishing the use of bio-hazardous materials.
+..........
+
+
+
+--- OCR_page_4 ---
+
+t
+صفحه ۴
+510B
+زبان عمومی و تخصصی
+19- It can be inferred from the passage that
+1) all hardware devices are dangerous to the environment.
+2) out-of-use computers may pollute the environment.
+3) due to its nonphysical nature, software cannot affect the environment.
+4) CO2 is the most hazardous material associated with computing.
+20- According to the passage, results of research related to green computing
+1) may be challenged.
+2) are usually ignored by the industry.
+3) are seldom verified by search engines. 4) may be misused.
+Passage 2:
+Internet telephony is a common communications service made possible by the creation of the Internet. VoIP stands for Voice-over-Internet Protocol, referring to the protocol that underlies all such communication. The idea began in the early 1990s with walkie-talkie-like voice applications for personal computers. In recent years, many VolP systems have become as easy to use and as convenient as a normal telephone. The benefit is that, as the Internet carries the voice traffic, VoIP can be free or cost much less than a traditional telephone call, especially over long distances and especially for those with always-on Internet connections such as cable or ADSL. VoIP is maturing into a competitive alternative to traditional telephone service. Interoperability between different providers has improved, and the ability to call or receive a call from a traditional telephone is available. Simple, inexpensive VoIP network adapters are available that eliminate the need for a personal computer.
+Voice quality can still vary from call to call, but is often equal to and can even exceed that of traditional calls. Remaining problems for VoIP include emergency telephone number dialing and reliability. Currently, a few VoIP providers provide an emergency service, but it is not universally available. Traditional phones are line-powered and operate during a power failure; VoIP does not do so without a backup power source for the phone equipment and the Internet access devices.
+21- Which of the following is the best title for this passage?
+1) "Capabilities and Limitations of VoIP"
+2) "Creation and Demise of Internet Telephony"
+3) "Internet Protocols and their Versatility"
+4) "Reliable Internet Services"
+22- What is said about VoIP?
+1) Interoperability between different providers is guaranteed.
+2) It is more reliable than traditional phones.
+3) It generally requires the use of a PC.
+4) Not all providers provide an emergency service.
+23- Compared to VoIP, traditional phones are generally 1) preferable where power failures are common.
+2) superior as to the voice quality provided.
+3) more cost-effective.
+4) more convenient where ease of use is essential.
+:
+
+
+
+--- OCR_page_5 ---
+
+صفحه ۵
+510B
+زبان عمومی و تخصصی
+24- VoIP users
+1) may not get the same voice quality all the time.
+2) may only make long-distance calls.
+3) cannot call traditional phones.
+4) have to use walkie-talkie-like devices.
+25- It can be inferred from the passage that in the future,
+1) VoIP will replace traditional phones in all areas and applications. 2) Internet telephony will continue to prosper.
+3) VoIP will only be used by ADSL users.
+4) the Internet will mainly be used for carrying voice traffic.
+Passage 3:
+Code refactoring is a "disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior", undertaken in order to improve some of the non-functional attributes of the software. Advantages include improved code readability and reduced complexity to improve the maintainability of the source code, as well as a more expressive internal architecture (or object model) to improve extensibility. Refactoring is usually motivated by noticing a "code smell". For example, the method at hand may be very long, or it may be a near duplicate of another nearby method. Once recognized, such problems can be addressed by refactoring the source code. or transforming it into a new form that behaves the same as before but that no longer "smells". For a long routine, one or more smaller subroutines can be extracted; or for duplicate routines, the duplication can be removed and replaced with one shared function.
+While the term refactoring originally referred exclusively to refactoring of software code, in recent years, code written in hardware description languages (HDLs) has also been refactored. The term hardware refactoring is used as a shorthand term for refactoring of code in hardware description languages. Since HDLs are not considered to be programming languages by most hardware engineers, hardware refactoring is to be considered a separate field from traditional code refactoring.
+26- Code refactoring typically
+1) preserves the structure of the code.
+2) cleans the code of viruses and other malware.
+3) enriches the behavior of the code.
+4) improves the intelligibility of the code.
+27- Code refactoring's ultimate aim is to improve
+1) the hardware/software co-design anomalies of the code. 2) the maintainability and extensibility of the code.
+3) the platform dependencies of the system.
+4) the user-friendliness and efficiency of the system.
+28. In hardware refactoring,
+1) hardware components are reprogrammed.
+2) existing HDL code is modified.
+3) hardware devices are decomposed.
+4) HDL code is written from scratch.
+*********............................................ . . ......................................
+..
+.....:.::...
+
+
+
+--- OCR_page_6 ---
+
+A
+صفحه ۶
+510B
+زبان عمومی و تخصصی
+29- Which of the following is more likely to be considered as code refactoring?
+1) Simplifying a complex routine in the code.
+2) Modifying the code to support a new user interface.
+3) Adding a new functionality to the system.
+4) Adding a new type of system user to the list of users.
+30- It can be inferred from the passage that
+1) code refactoring and hardware refactoring are likely to be performed in tandem. 2) code refactoring will ultimately replace software testing.
+3) code refactoring affects most of the non-functional aspects of the system.
+4) code refactoring is most probably performed by programmers.
+است جمله مستقل از
+ریاضیات ریاضیات مهندسی آمار و احتمالات محاسبات عددی ساختمانهای گسسته
+a
+(-1)
+=
+b.
+n
+"በ
+(۲
+(۴
+ضرایب بسط سری فوریه (f(x) با دوره تناوب ۲ به صورت
+در سری فوریه تابع x) = f(x)sinx) ، کدام است؟
+۱) صفر
+}
+(۳
+و در مربعی به ضلع ، به دست آوردن پاسخ معادله حرارت , مورد نظر است حالت اولیه (x,y,o) = f(x,y)
+شرایط مرزی چنین است
+درجه حرارت روی دو ضلع 0,2 = y صفر است.
+دو ضلع دیگر , = x عایق اند.
+"
+شکل عمومی پاسخ معادله حرارت روی این ناحیه با شرایط مرزی یاد شده عبارت است از:
+MA
+mn .sin X. Sin
+a
+b
+00
+Σ LEAmne
+m=1n=1
+00
+L CAme - Amnt
+m=on=1
+00
+ΣΣΑm
+m=\ n ==
+e
+mn
+00
+ا=m=o n
+:
+mя .cos- X sin a
+(۲)
+b
+.sin X COS-
+mл
+а
+mn
+mл .cos --
+mn
+a
+b
+x sinh
+na
+b
+-۳۱
+۳۲
+.:.
