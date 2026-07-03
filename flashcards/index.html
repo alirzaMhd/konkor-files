@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dictionary Flashcards</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0f0f1a;--card:#1a1a2e;--accent:#e94560;--accent2:#0f3460;--text:#eee;--text2:#aaa;--radius:16px}
+body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;flex-direction:column;align-items:center;overflow-x:hidden}
+header{width:100%;max-width:800px;padding:20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}
+header h1{font-size:1.4rem;background:linear-gradient(135deg,var(--accent),#ff6b6b);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.stats{font-size:.85rem;color:var(--text2)}
+.stats span{color:var(--accent);font-weight:700}
+.search-box{width:100%;max-width:800px;padding:0 20px;margin-bottom:10px}
+.search-box input{width:100%;padding:12px 16px;border-radius:var(--radius);border:2px solid #333;background:#16213e;color:var(--text);font-size:1rem;outline:none;transition:border .2s}
+.search-box input:focus{border-color:var(--accent)}
+.controls{width:100%;max-width:800px;padding:0 20px;display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
+.controls button{padding:10px 18px;border:none;border-radius:var(--radius);cursor:pointer;font-size:.9rem;font-weight:600;transition:all .2s}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{filter:brightness(1.2)}
+.btn-secondary{background:var(--accent2);color:#fff}
+.btn-secondary:hover{filter:brightness(1.2)}
+.btn-danger{background:#c0392b;color:#fff}
+.btn-danger:hover{filter:brightness(1.2)}
+.btn-outline{background:transparent;color:var(--accent);border:2px solid var(--accent)}
+.btn-outline:hover{background:var(--accent);color:#fff}
+.card-area{width:100%;max-width:800px;min-height:400px;display:flex;justify-content:center;align-items:center;padding:20px;perspective:1000px}
+.flashcard{width:100%;max-width:500px;min-height:320px;position:relative;cursor:pointer;transform-style:preserve-3d;transition:transform .6s;border-radius:var(--radius)}
+.flashcard.flipped{transform:rotateY(180deg)}
+.flashcard-face{position:absolute;width:100%;min-height:320px;backface-visibility:hidden;border-radius:var(--radius);padding:30px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
+.flashcard-front{background:linear-gradient(145deg,#16213e,#1a1a2e);border:2px solid #333}
+.flashcard-back{background:linear-gradient(145deg,#1a1a2e,#0f3460);border:2px solid var(--accent2);transform:rotateY(180deg)}
+.word{font-size:2.2rem;font-weight:700;margin-bottom:10px}
+.translation{font-size:1.8rem;color:var(--accent);font-weight:600;margin-bottom:10px}
+.hint{font-size:.8rem;color:var(--text2);margin-top:10px}
+.card-number{position:absolute;top:12px;right:16px;font-size:.8rem;color:var(--text2)}
+.nav-buttons{display:flex;gap:15px;margin-top:20px}
+.nav-buttons button{width:50px;height:50px;border-radius:50%;border:2px solid #444;background:var(--card);color:var(--text);font-size:1.3rem;cursor:pointer;transition:all .2s}
+.nav-buttons button:hover{border-color:var(--accent);color:var(--accent)}
+.nav-buttons button:disabled{opacity:.3;cursor:not-allowed}
+.notes-panel{width:100%;max-width:500px;margin-top:20px;padding:20px;background:var(--card);border-radius:var(--radius);border:1px solid #333}
+.notes-panel h3{margin-bottom:12px;font-size:1rem;color:var(--accent)}
+.note-tabs{display:flex;gap:5px;margin-bottom:12px}
+.note-tabs button{padding:8px 14px;border:none;border-radius:8px;cursor:pointer;font-size:.8rem;background:#2a2a3e;color:var(--text2);transition:all .2s}
+.note-tabs button.active{background:var(--accent);color:#fff}
+.note-content{width:100%}
+.note-content textarea{width:100%;min-height:80px;padding:10px;border-radius:10px;border:1px solid #444;background:#0f0f1a;color:var(--text);font-size:.95rem;resize:vertical;outline:none;font-family:inherit}
+.note-content textarea:focus{border-color:var(--accent)}
+.image-upload{display:flex;flex-direction:column;align-items:center;gap:10px}
+.image-upload label{padding:10px 20px;background:var(--accent2);color:#fff;border-radius:10px;cursor:pointer;transition:all .2s}
+.image-upload label:hover{filter:brightness(1.2)}
+.image-upload input{display:none}
+.note-image{max-width:100%;max-height:200px;border-radius:10px;margin-top:10px}
+.voice-controls{display:flex;flex-direction:column;align-items:center;gap:10px}
+.record-btn{width:70px;height:70px;border-radius:50%;border:3px solid var(--accent);background:transparent;color:var(--accent);font-size:1.5rem;cursor:pointer;transition:all .3s}
+.record-btn.recording{background:var(--accent);color:#fff;animation:pulse 1s infinite}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(233,69,96,.7)}50%{box-shadow:0 0 0 15px rgba(233,69,96,0)}}
+.voice-controls audio{width:100%;margin-top:10px}
+.empty-state{text-align:center;color:var(--text2);padding:60px 20px}
+.empty-state h2{margin-bottom:10px;color:var(--accent)}
+.empty-state p{margin-bottom:20px}
+.progress-bar{width:100%;max-width:800px;padding:0 20px;margin-bottom:10px}
+.progress-bar .bar{height:4px;background:#2a2a3e;border-radius:2px;overflow:hidden}
+.progress-bar .fill{height:100%;background:linear-gradient(90deg,var(--accent),#ff6b6b);transition:width .3s;border-radius:2px}
+.modal-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.7);z-index:100;justify-content:center;align-items:center}
+.modal-overlay.active{display:flex}
+.modal{background:var(--card);border-radius:var(--radius);padding:30px;max-width:400px;width:90%;text-align:center}
+.modal h2{margin-bottom:15px;color:var(--accent)}
+.modal p{margin-bottom:20px;color:var(--text2)}
+.modal-buttons{display:flex;gap:10px;justify-content:center}
+.letter-nav{width:100%;max-width:800px;padding:0 20px;margin-bottom:15px;display:flex;flex-wrap:wrap;gap:5px}
+.letter-nav button{width:32px;height:32px;border:none;border-radius:6px;cursor:pointer;font-size:.8rem;font-weight:600;background:#1a1a2e;color:var(--text2);transition:all .2s}
+.letter-nav button:hover,.letter-nav button.active{background:var(--accent);color:#fff}
+@media(max-width:600px){
+  .word{font-size:1.6rem}
+  .translation{font-size:1.3rem}
+  .flashcard-face{padding:20px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📚 Flashcard Dictionary</h1>
+  <div class="stats">Showing <span id="showing-count">0</span> of <span id="total-count">0</span> words</div>
+</header>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Search words..." autocomplete="off">
+</div>
+
+<div class="letter-nav" id="letter-nav"></div>
+
+<div class="progress-bar"><div class="bar"><div class="fill" id="progress-fill"></div></div></div>
+
+<div class="controls">
+  <button class="btn-primary" onclick="prevCard()">◀ Prev</button>
+  <button class="btn-primary" onclick="nextCard()">Next ▶</button>
+  <button class="btn-danger" onclick="confirmDelete()">🗑 Delete</button>
+  <button class="btn-secondary" onclick="shuffleCards()">🔀 Shuffle</button>
+  <button class="btn-outline" onclick="resetAll()">↺ Reset All</button>
+  <button class="btn-secondary" onclick="exportData()">📥 Export</button>
+  <button class="btn-outline" onclick="importData()">📤 Import</button>
+  <input type="file" id="import-file" accept=".json" style="display:none" onchange="handleImport(event)">
+</div>
+
+<div class="card-area" id="card-area">
+  <div class="flashcard" id="flashcard" onclick="flipCard()">
+    <div class="flashcard-face flashcard-front">
+      <div class="card-number" id="card-num"></div>
+      <div class="word" id="card-word"></div>
+      <div class="hint">Tap to reveal translation</div>
+    </div>
+    <div class="flashcard-face flashcard-back">
+      <div class="card-number" id="card-num2"></div>
+      <div class="translation" id="card-translation"></div>
+      <div class="hint">Tap to see word</div>
+    </div>
+  </div>
+</div>
+
+<div class="notes-panel" id="notes-panel">
+  <h3>📝 Notes for this word</h3>
+  <div class="note-tabs">
+    <button class="active" onclick="switchNoteTab('text',this)">Text</button>
+    <button onclick="switchNoteTab('image',this)">Image</button>
+    <button onclick="switchNoteTab('voice',this)">Voice</button>
+  </div>
+  <div class="note-content" id="note-text">
+    <textarea id="text-note" placeholder="Write a note about this word..." oninput="saveNote()"></textarea>
+  </div>
+  <div class="note-content" id="note-image" style="display:none">
+    <div class="image-upload">
+      <label>📷 Upload Image<input type="file" accept="image/*" onchange="handleImage(event)"></label>
+      <img id="note-img" class="note-image" style="display:none" onclick="this.style.display='none'">
+      <button class="btn-danger" id="remove-img-btn" style="display:none" onclick="removeImage()">Remove Image</button>
+    </div>
+  </div>
+  <div class="note-content" id="note-voice" style="display:none">
+    <div class="voice-controls">
+      <button class="record-btn" id="rec-btn" onclick="toggleRecord()">🎤</button>
+      <small id="rec-status">Tap to start recording</small>
+      <audio id="voice-player" controls style="display:none"></audio>
+      <button class="btn-danger" id="remove-voice-btn" style="display:none" onclick="removeVoice()">Remove Voice</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="delete-modal">
+  <div class="modal">
+    <h2>Delete this card?</h2>
+    <p id="delete-word-display"></p>
+    <p>This word will never be shown again.</p>
+    <div class="modal-buttons">
+      <button class="btn-danger" onclick="deleteCard()">Yes, Delete</button>
+      <button class="btn-secondary" onclick="closeModal()">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="empty-modal">
+  <div class="modal">
+    <h2>All done!</h2>
+    <p>You've deleted all flashcards. Reset to start over.</p>
+    <div class="modal-buttons">
+      <button class="btn-primary" onclick="resetAll()">Reset All Cards</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const API='';
+let allWords=[];
+let cards=[];
+let currentIndex=0;
+let notes={};
+let deletedWords=new Set();
+let mediaRecorder=null;
+let audioChunks=[];
+let currentNoteTab='text';
+let saveTimeout=null;
+
+async function api(method,path,body){
+  const opts={method,headers:{'Content-Type':'application/json'}};
+  if(body)opts.body=JSON.stringify(body);
+  const r=await fetch(API+path,opts);
+  return r.json();
+}
+
+async function loadData(){
+  const [del,notesData]=await Promise.all([
+    api('GET','/api/deleted'),
+    api('GET','/api/notes')
+  ]);
+  deletedWords=new Set(del);
+  notes=notesData;
+}
+
+async function saveDeleted(){
+  await api('PUT','/api/deleted',[...deletedWords]);
+}
+
+async function saveNotesToServer(){
+  await api('PUT','/api/notes',notes);
+}
+
+function debounceSave(){
+  clearTimeout(saveTimeout);
+  saveTimeout=setTimeout(()=>saveNotesToServer(),500);
+}
+
+async function init(){
+  await loadData();
+  try{
+    const data=await fetch('dictionary_translated.json').then(r=>r.json());
+    allWords=data;
+    cards=allWords.filter(w=>!deletedWords.has(w.word));
+    updateUI();
+    buildLetterNav();
+  }catch{
+    document.getElementById('card-area').innerHTML='<div class="empty-state"><h2>Could not load dictionary</h2><p>Make sure dictionary_translated.json is in the same folder.</p></div>';
+  }
+}
+
+function updateUI(){
+  const total=allWords.length;
+  const remaining=cards.length;
+  document.getElementById('total-count').textContent=total;
+  document.getElementById('showing-count').textContent=remaining;
+
+  if(remaining===0){
+    document.getElementById('empty-modal').classList.add('active');
+    document.getElementById('card-area').innerHTML='<div class="empty-state"><h2>No cards left</h2><p>Delete all cards. Reset to start over.</p></div>';
+    document.getElementById('notes-panel').style.display='none';
+    return;
+  }
+
+  document.getElementById('notes-panel').style.display='';
+
+  if(currentIndex>=remaining)currentIndex=0;
+  if(currentIndex<0)currentIndex=remaining-1;
+
+  renderCard();
+}
+
+function renderCard(){
+  const c=cards[currentIndex];
+  document.getElementById('card-word').textContent=c.word;
+  document.getElementById('card-translation').textContent=c.translation;
+  document.getElementById('card-num').textContent=`${currentIndex+1} / ${cards.length}`;
+  document.getElementById('card-num2').textContent=`${currentIndex+1} / ${cards.length}`;
+  document.getElementById('progress-fill').style.width=`${((currentIndex+1)/cards.length)*100}%`;
+
+  const fc=document.getElementById('flashcard');
+  fc.classList.remove('flipped');
+
+  loadNote(c.word);
+  highlightLetter(c.word[0].toLowerCase());
+}
+
+function flipCard(){
+  document.getElementById('flashcard').classList.toggle('flipped');
+}
+
+function nextCard(){
+  currentIndex=(currentIndex+1)%cards.length;
+  renderCard();
+}
+
+function prevCard(){
+  currentIndex=(currentIndex-1+cards.length)%cards.length;
+  renderCard();
+}
+
+function confirmDelete(){
+  if(!cards.length)return;
+  document.getElementById('delete-word-display').textContent=`"${cards[currentIndex].word}" → ${cards[currentIndex].translation}`;
+  document.getElementById('delete-modal').classList.add('active');
+}
+
+function closeModal(){
+  document.getElementById('delete-modal').classList.remove('active');
+}
+
+async function deleteCard(){
+  const w=cards[currentIndex].word;
+  deletedWords.add(w);
+  await saveDeleted();
+  cards.splice(currentIndex,1);
+  closeModal();
+  updateUI();
+}
+
+function shuffleCards(){
+  for(let i=cards.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [cards[i],cards[j]]=[cards[j],cards[i]];
+  }
+  currentIndex=0;
+  renderCard();
+}
+
+async function resetAll(){
+  deletedWords.clear();
+  notes={};
+  await Promise.all([saveDeleted(),saveNotesToServer()]);
+  document.getElementById('empty-modal').classList.remove('active');
+  cards=[...allWords];
+  currentIndex=0;
+  updateUI();
+}
+
+function buildLetterNav(){
+  const letters='abcdefghijklmnopqrstuvwxyz'.split('');
+  const nav=document.getElementById('letter-nav');
+  nav.innerHTML='';
+  letters.forEach(l=>{
+    const btn=document.createElement('button');
+    btn.textContent=l.toUpperCase();
+    btn.onclick=()=>{
+      const idx=cards.findIndex(c=>c.word[0].toLowerCase()===l);
+      if(idx>=0){currentIndex=idx;renderCard();}
+    };
+    nav.appendChild(btn);
+  });
+}
+
+function highlightLetter(l){
+  document.querySelectorAll('.letter-nav button').forEach(b=>{
+    b.classList.toggle('active',b.textContent.toLowerCase()===l);
+  });
+}
+
+// Search
+document.getElementById('search').addEventListener('input',e=>{
+  const q=e.target.value.toLowerCase().trim();
+  if(!q){
+    cards=allWords.filter(w=>!deletedWords.has(w.word));
+  }else{
+    cards=allWords.filter(w=>!deletedWords.has(w.word)&&(w.word.toLowerCase().includes(q)||w.translation.includes(q)));
+  }
+  currentIndex=0;
+  updateUI();
+});
+
+// Notes
+function switchNoteTab(tab,btn){
+  currentNoteTab=tab;
+  document.querySelectorAll('.note-tabs button').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('note-text').style.display=tab==='text'?'block':'none';
+  document.getElementById('note-image').style.display=tab==='image'?'block':'none';
+  document.getElementById('note-voice').style.display=tab==='voice'?'block':'none';
+}
+
+function getWordKey(){return cards[currentIndex]?cards[currentIndex].word:'';}
+
+function loadNote(word){
+  const note=notes[word]||{text:'',image:'',voice:''};
+  document.getElementById('text-note').value=note.text||'';
+
+  const img=document.getElementById('note-img');
+  const rmBtn=document.getElementById('remove-img-btn');
+  if(note.image){img.src=note.image;img.style.display='block';rmBtn.style.display='inline-block';}
+  else{img.style.display='none';rmBtn.style.display='none';}
+
+  const player=document.getElementById('voice-player');
+  const rvBtn=document.getElementById('remove-voice-btn');
+  if(note.voice){player.src=note.voice;player.style.display='block';rvBtn.style.display='inline-block';}
+  else{player.style.display='none';rvBtn.style.display='none';}
+}
+
+async function saveNote(){
+  const w=getWordKey();
+  if(!w)return;
+  if(!notes[w])notes[w]={text:'',image:'',voice:''};
+  notes[w].text=document.getElementById('text-note').value;
+  debounceSave();
+}
+
+async function handleImage(e){
+  const w=getWordKey();
+  if(!w)return;
+  const file=e.target.files[0];
+  if(!file)return;
+  const reader=new FileReader();
+  reader.onload=async ev=>{
+    if(!notes[w])notes[w]={text:'',image:'',voice:''};
+    notes[w].image=ev.target.result;
+    await saveNotesToServer();
+    document.getElementById('note-img').src=ev.target.result;
+    document.getElementById('note-img').style.display='block';
+    document.getElementById('remove-img-btn').style.display='inline-block';
+  };
+  reader.readAsDataURL(file);
+}
+
+async function removeImage(){
+  const w=getWordKey();
+  if(!w||!notes[w])return;
+  notes[w].image='';
+  await saveNotesToServer();
+  document.getElementById('note-img').style.display='none';
+  document.getElementById('remove-img-btn').style.display='none';
+}
+
+async function toggleRecord(){
+  const btn=document.getElementById('rec-btn');
+  const status=document.getElementById('rec-status');
+
+  if(mediaRecorder&&mediaRecorder.state==='recording'){
+    mediaRecorder.stop();
+    btn.classList.remove('recording');
+    status.textContent='Recording saved';
+    return;
+  }
+
+  try{
+    const stream=await navigator.mediaDevices.getUserMedia({audio:true});
+    audioChunks=[];
+    mediaRecorder=new MediaRecorder(stream);
+    mediaRecorder.ondataavailable=e=>audioChunks.push(e.data);
+    mediaRecorder.onstop=async ()=>{
+      const blob=new Blob(audioChunks,{type:'audio/webm'});
+      const reader=new FileReader();
+      reader.onload=async ev=>{
+        const w=getWordKey();
+        if(!w)return;
+        if(!notes[w])notes[w]={text:'',image:'',voice:''};
+        notes[w].voice=ev.target.result;
+        await saveNotesToServer();
+        document.getElementById('voice-player').src=ev.target.result;
+        document.getElementById('voice-player').style.display='block';
+        document.getElementById('remove-voice-btn').style.display='inline-block';
+      };
+      reader.readAsDataURL(blob);
+      stream.getTracks().forEach(t=>t.stop());
+    };
+    mediaRecorder.start();
+    btn.classList.add('recording');
+    status.textContent='Recording... tap to stop';
+  }catch(err){
+    status.textContent='Microphone access denied';
+  }
+}
+
+async function removeVoice(){
+  const w=getWordKey();
+  if(!w||!notes[w])return;
+  notes[w].voice='';
+  await saveNotesToServer();
+  document.getElementById('voice-player').style.display='none';
+  document.getElementById('remove-voice-btn').style.display='none';
+}
+
+// Export/Import
+async function exportData(){
+  const [del,notesData]=await Promise.all([
+    api('GET','/api/deleted'),
+    api('GET','/api/notes')
+  ]);
+  const data={deleted:del,notes:notesData};
+  const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='flashcards_backup.json';
+  a.click();
+}
+
+function importData(){
+  document.getElementById('import-file').click();
+}
+
+async function handleImport(e){
+  const file=e.target.files[0];
+  if(!file)return;
+  const text=await file.text();
+  try{
+    const data=JSON.parse(text);
+    if(data.deleted){deletedWords=new Set(data.deleted);await saveDeleted();}
+    if(data.notes){notes=data.notes;await saveNotesToServer();}
+    cards=allWords.filter(w=>!deletedWords.has(w.word));
+    currentIndex=0;
+    updateUI();
+    alert('Import successful!');
+  }catch{alert('Invalid backup file');}
+}
+
+// Keyboard shortcuts
+document.addEventListener('keydown',e=>{
+  if(e.target.tagName==='TEXTAREA'||e.target.tagName==='INPUT')return;
+  if(e.key==='ArrowRight')nextCard();
+  if(e.key==='ArrowLeft')prevCard();
+  if(e.key===' '){e.preventDefault();flipCard();}
+  if(e.key==='Delete')confirmDelete();
+});
+
+init();
+</script>
+</body>
+</html>
