@@ -1,4 +1,9 @@
-const { kv } = require('@vercel/kv');
+const { Redis } = require('@upstash/redis');
+
+const kv = new Redis({
+  url: process.env.KV_REST_API_URL,
+  token: process.env.KV_REST_API_TOKEN,
+});
 
 module.exports = async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -8,16 +13,20 @@ module.exports = async function handler(req, res) {
 
   const key = 'fc:notes';
 
-  if (req.method === 'GET') {
-    const notes = await kv.get(key) || {};
-    return res.status(200).json(notes);
-  }
+  try {
+    if (req.method === 'GET') {
+      const notes = (await kv.get(key)) || {};
+      return res.status(200).json(notes);
+    }
 
-  if (req.method === 'PUT') {
-    const data = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
-    await kv.set(key, data);
-    return res.status(200).json({ ok: true });
-  }
+    if (req.method === 'PUT') {
+      const data = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
+      await kv.set(key, data);
+      return res.status(200).json({ ok: true });
+    }
 
-  res.status(405).json({ error: 'Method not allowed' });
+    res.status(405).json({ error: 'Method not allowed' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 };
