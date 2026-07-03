@@ -496,9 +496,15 @@ async function init(){
   }
 }
 
-function showSkeleton(){
+const CARD_HTML=`<div class="swipe-zone left" id="swipe-left"><svg viewBox="0 0 24 24"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg></div><div class="card-container"><div class="flashcard" id="flashcard" onclick="flipCard()" tabindex="0" role="button" aria-label="Flashcard. Press space to flip."><div class="flashcard-face flashcard-front"><div class="card-badge" id="card-num"></div><div class="word" id="card-word"></div><div class="hint"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>Tap to reveal</div></div><div class="flashcard-face flashcard-back"><div class="card-badge" id="card-num2"></div><div class="translation" id="card-translation"></div><div class="hint"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>Tap to see word</div></div></div></div><div class="swipe-zone right" id="swipe-right"><svg viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></div>`;
+
+function restoreCardHTML(){
   const ca=document.getElementById('card-area');
-  ca.innerHTML='<div class="skeleton skeleton-card"><div style="padding:40px"><div class="skeleton skeleton-text" style="width:60%"></div><div class="skeleton skeleton-text" style="width:40%;margin-top:16px"></div></div></div>';
+  if(!document.getElementById('flashcard')){ca.innerHTML=CARD_HTML;}
+}
+
+function showSkeleton(){
+  document.getElementById('card-area').innerHTML='<div class="skeleton skeleton-card"><div style="padding:40px"><div class="skeleton skeleton-text" style="width:60%"></div><div class="skeleton skeleton-text" style="width:40%;margin-top:16px"></div></div></div>';
 }
 
 // ── UI Update ──
@@ -516,6 +522,7 @@ function updateUI(){
     return;
   }
 
+  restoreCardHTML();
   document.getElementById('notes-panel').style.display='';
   document.getElementById('bottom-nav').style.display='';
 
